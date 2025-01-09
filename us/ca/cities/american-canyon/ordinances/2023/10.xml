@@ -74,7 +74,7 @@
       <num>1.</num>
       <text><cite doc="City of American Canyon, Cal., Code" path="|2.04.060|(A)|(1)">Section 2.04.060(A)(1)</cite> is amended to provide: <strong>Consistent with <cite doc="Cal. Gov't Code" path="§36516|(a)|(2)|(A)">Government Code Section 36516(a)(2)(A)</cite>, the city council establishes the compensation to be paid to each member as nine hundred fifty dollars per month.</strong></text>
     </para>
-    <codify:replace path="|2.04.060|(A)|(1)">
+    <codify:replace path="|2.04.060|(A)|(1)" codified:doc="City of American Canyon, Cal., Code" codified:path="|2.04.060|(A)|(1)">
       <para>
         <num>(1)</num>
         <text>Consistent with <cite doc="Cal. Gov't Code" path="§36516|(a)|(2)|(A)">Government Code Section 36516(a)(2)(A)</cite>, the city council establishes the compensation to be paid to each member as nine hundred fifty dollars per month.</text>
@@ -84,7 +84,7 @@
       <num>2.</num>
       <text><cite doc="City of American Canyon, Cal., Code" path="|2.04.060|(A)|(3)">Section 2.04.060(A)(3)</cite> is amended to provide: <strong>The ordinance codified in this chapter shall become effective on January 1, 2024.</strong></text>
     </para>
-    <codify:replace path="|2.04.060|(A)|(3)">
+    <codify:replace path="|2.04.060|(A)|(3)" codified:doc="City of American Canyon, Cal., Code" codified:path="|2.04.060|(A)|(3)">
       <para>
         <num>(3)</num>
         <text>The ordinance codified in this chapter shall become effective on January 1, 2024.</text>
@@ -94,7 +94,7 @@
       <num>3.</num>
       <text><cite doc="City of American Canyon, Cal., Code" path="|2.04.060|(A)|(4)">Section 2.04.060(A)(4)</cite> is amended to provide: <strong>Notwithstanding the effective date of the ordinance codified in this chapter, consistent with <cite doc="Cal. Gov't Code" path="§36516.5">Government Code Section 36516.5</cite>, the salaries of the members of the city council shall not be increased to nine hundred fifty dollars per month until November 6, 2024.</strong></text>
     </para>
-    <codify:replace path="|2.04.060|(A)|(4)">
+    <codify:replace path="|2.04.060|(A)|(4)" codified:doc="City of American Canyon, Cal., Code" codified:path="|2.04.060|(A)|(4)">
       <para>
         <num>(4)</num>
         <text>Notwithstanding the effective date of the ordinance codified in this chapter, consistent with <cite doc="Cal. Gov't Code" path="§36516.5">Government Code Section 36516.5</cite>, the salaries of the members of the city council shall not be increased to nine hundred fifty dollars per month until November 6, 2024.</text>
