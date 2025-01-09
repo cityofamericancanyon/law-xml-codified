@@ -166,7 +166,7 @@
       </table>
     </text>
   </procedural-data>
-  <codify:replace path="|19.40.050|(B)|(2)|(c)">
+  <codify:replace path="|19.40.050|(B)|(2)|(c)" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.40.050|(B)|(2)|(c)">
     <para>
       <num>(c)</num>
       <text>The owners of all property within five hundred (500) feet of the exterior boundaries of the property which is the subject of the application,</text>
