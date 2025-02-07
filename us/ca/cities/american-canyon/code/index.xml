@@ -3,8 +3,8 @@
   <heading>City of American Canyon Municipal Code</heading>
   <meta>
     <effective>0001-01-01</effective>
-    <recency through="2024-01-01">
-      <doc id="City of American Canyon, Cal., Ord. No. 2023-10" type="ordinance"/>
+    <recency through="2024-03-05">
+      <doc id="City of American Canyon, Cal., Res. No. 2024-18" type="resolution"/>
     </recency>
   </meta>
   <xi:include href="./1.xml"/>
