@@ -16,17 +16,18 @@
     <history-start>2023-06-01</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="cityofamericancanyon/law-xml" commit="e79cad485e768326790a606212e3c8d5ef4a9a17"/>
+        <repository name="cityofamericancanyon/law-xml" commit="7b724d164d270fadae66c8a8d71890aa72374e39"/>
       </repositories>
-      <platform version="2.15.5" reproducible="true"/>
-      <build-date>2025-02-06</build-date>
-      <codified-date>2025-01-21</codified-date>
+      <platform version="2.15.16" reproducible="true"/>
+      <build-date>2025-04-03</build-date>
+      <codified-date>2025-03-18</codified-date>
       <publication>publication/2025-02-06</publication>
     </build>
   </meta>
   <xi:include href="./us/ca/cities/american-canyon/code/index.xml"/>
   <collection name="us/ca/cities/american-canyon/ordinances">
     <heading>Ordinances</heading>
+    <xi:include href="./us/ca/cities/american-canyon/ordinances/2025/index.xml"/>
     <xi:include href="./us/ca/cities/american-canyon/ordinances/2024/index.xml"/>
     <xi:include href="./us/ca/cities/american-canyon/ordinances/2023/index.xml"/>
     <xi:include href="./us/ca/cities/american-canyon/ordinances/2022/index.xml"/>
