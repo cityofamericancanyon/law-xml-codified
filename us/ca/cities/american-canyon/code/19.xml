@@ -629,10 +629,11 @@
         <text>Employee housing: housing for six or fewer employees in a single-family dwelling shall be deemed a single-family use and shall be treated the same as any single-family dwelling in districts where single-family dwellings are allowed. Employee housing shall not be included within the definition of a boarding house, rooming house, hotel, dormitory or other similar term that implies the employee housing differs in any way from a family dwelling and shall not constitute a change in occupancy for purposes of local building codes. It shall not be subject to any fees to which other family dwellings of the same type in the same zone are not likewise subject.</text>
         <text>Farm employee housing: living quarters provided on agriculture district property for the use of workers employed in agricultural activities.</text>
         <text>Garden apartments: a multifamily development of one or more two- or three-story structures containing up to twenty units each that has units located one over the other, with integrated off-street parking, open space and recreation.</text>
+        <text>Low Barrier Navigation Center: "a Housing First, low-barrier, service-enriched shelter focused on moving people into permanent housing that provides temporary living facilities while case managers connect individuals experiencing homelessness to income, public benefits, health services, shelter, and housing (See <cite doc="Cal. Gov't Code" path="§65660">Government Code § 65660</cite>).</text>
         <text>Mobilehome: a factory-built, single-family structure that meets the National Manufactured Housing Construction and Safety Standards Act of 1974.</text>
         <text>Mobilehome park: a site developed for the long-term placement of mobilehomes.</text>
         <text>Multifamily residential: three or more dwelling units on a lot. Multifamily residential units may share one or more common walls and include townhomes and garden apartments.</text>
-        <text>Residential care home: provision of twenty-four-hour nonmedical care of six or fewer persons in need of personal services, supervision, protection or assistance essential for sustaining the activities of daily living, or twenty-four-hour care for six or fewer foster children. This classification includes only those services and facilities licensed by the state for such purposes. Small group homes without personal services shall have the same standards and processing as residential care homes.</text>
+        <text>Residential Care Home, Small: provision of twenty-four-hour nonmedical care of six or fewer persons in need of personal services, supervision, protection or assistance licensed by the state essential for sustaining the activities of daily living, or twenty-four-hour care for six or fewer foster children. Furthermore, Small residential care homes without State license personal services shall also have the same standards and processing as residential care homes. For the purposes of any law or zoning ordinance that relates to the residential use of property pursuant to this chapter, the residents and operators of the facility shall be considered a family. (see <cite doc="Cal. Health &amp; Safety Code" path="§1568.0831">Health and Safety Code § 1568.0831</cite>).</text>
         <text>Second residential unit: a second dwelling unit located on a lot with an existing principal dwelling unit.</text>
         <text>Single-family residential, detached: a dwelling unit located on a separate lot which has no common walls with any other dwelling unit. Detached single-family residential include mobilehomes placed on a permanent foundation.</text>
         <text>Single-family residential, semidetached: a one-family dwelling attached to one other one-family dwelling by a common vertical wall, with each dwelling located on a separate lot.</text>
@@ -645,6 +646,8 @@
           <annotation type="History">Ord. 2017-07 § 1, 2017</annotation>
           <annotation type="History">Ord. 2014-06 § 1, 2014</annotation>
           <annotation type="History">Ord. 2001-02 § 1, 2001</annotation>
+          <annotation app="2024-05-02" doc="City of American Canyon, Cal., Ord. No. 2024-04" eff="2024-05-02" path="§1" type="History"/>
+          <annotation app="2024-05-02" doc="City of American Canyon, Cal., Ord. No. 2024-04" eff="2024-05-02" path="§2" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1254,14 +1257,14 @@
                 <td proof="needed" colspan="2"/>
               </tr>
               <tr>
-                <td>Residential care home</td>
-                <td>-</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td proof="needed" colspan="2"/>
+                <td>Residential Care Home, Small</td>
+                <th>P</th>
+                <th>P</th>
+                <th>P</th>
+                <th>P</th>
+                <th>P</th>
+                <th>P</th>
+                <td proof="needed"/>
               </tr>
               <tr>
                 <td>Second residential unit</td>
@@ -1272,7 +1275,7 @@
                 <td>P</td>
                 <td>-</td>
                 <td colspan="2">
-                  <cite path="|19.10.120" proof="needed">Section 19.10.120</cite>
+                  <cite path="|19.10.120">Section 19.10.120</cite>
                 </td>
               </tr>
               <tr>
@@ -2389,6 +2392,7 @@
           <annotation type="History">Ord. 2001-11 § 1, 2001</annotation>
           <annotation type="History">Ord. 2001-02 § 1, 2001</annotation>
           <annotation app="2024-03-21" doc="City of American Canyon, Cal., Ord. No. 2024-01" eff="2024-03-21" path="attachments|B|19.10|19.10.040" type="History"/>
+          <annotation app="2024-05-02" doc="City of American Canyon, Cal., Ord. No. 2024-04" eff="2024-05-02" path="§2" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3130,14 +3134,14 @@
       </section>
       <section>
         <num>19.10.130</num>
-        <heading>Manufactured homes.</heading>
+        <heading>Manufactured homes</heading>
         <para>
           <num>(A)</num>
-          <text>Intent. It is the intent of the city to provide opportunities for the placement of manufactured homes in single-family residential districts, consistent with state law and to ensure that such manufactured homes are designed and located so as to be harmonious within the context of the surrounding houses and neighborhood.</text>
+          <text>Intent. It is the intent of the city to provide opportunities for the placement of manufactured homes in single-family residential districts, consistent with state law.</text>
         </para>
         <para>
           <num>(B)</num>
-          <text>Approval. Approval by the community development director is required prior to the issuance of building permits for individual manufactured homes on a site in any residential district, subject to the provisions of <cite path="|19.10.130">this section</cite>. The community development director shall review each proposed manufactured home to determine compatibility in design and appearance with residential structures in the vicinity, based upon design and development criteria set forth in <cite path="|19.10.130">this section</cite>.</text>
+          <text>Approval. Approval by the community development director is required prior to the issuance of building permits for individual manufactured homes on a site in any residential district, subject to the provisions of this section.</text>
         </para>
         <para>
           <num>(C)</num>
@@ -3145,55 +3149,33 @@
         </para>
         <para>
           <num>(D)</num>
-          <text>Design and Development. The design and development criteria set forth herein are intended to protect neighborhood integrity, provide for harmonious relationships between manufactured homes and surrounding uses, and minimize problems that could occur as a result of locating manufactured homes on building sites designated for single-family residential uses. Each manufactured home:</text>
+          <text>Design and Development. Each manufactured home:</text>
           <para>
             <num>(1)</num>
-            <text>Shall be at least eighteen feet wide, as measured at its narrowest width;</text>
-          </para>
-          <para>
-            <num>(2)</num>
             <text>Shall be built on a permanent foundation approved by the building official;</text>
           </para>
           <para>
-            <num>(3)</num>
-            <text>Shall have been manufactured after June 15, 1976, and shall be certified under the National Manufactured Home Construction and Safety Act of 1974, and shall be installed in accordance with the provisions of the most recent edition of the Uniform Building Code adopted by the city;</text>
+            <num>(2)</num>
+            <text>Shall be certified under the National Manufactured Home Construction and Safety Act of 1974, and shall be installed in accordance with the provisions of the most recent edition of the California Building Code adopted by the city;</text>
           </para>
           <para>
-            <num>(4)</num>
+            <num>(3)</num>
             <text>Shall provide skirting of exterior finish materials extending to the finished grade;</text>
           </para>
           <para>
-            <num>(5)</num>
-            <text>Shall provide exterior siding material compatible with adjacent residential structures; shiny or metallic finishes are prohibited;</text>
-          </para>
-          <para>
-            <num>(6)</num>
-            <text>Shall have a roof with a pitch of not fewer than three inches vertical rise per twelve inches horizontal distance;</text>
-          </para>
-          <para>
-            <num>(7)</num>
-            <text>Shall have roofing material of concrete or asphalt tile, shakes, or shingles complying with the most recent editions of the Uniform Building Code adopted by the city;</text>
-          </para>
-          <para>
-            <num>(8)</num>
-            <text>Shall provide eaves or roof overhangs of not less than one foot as measured from the vertical side of the unit;</text>
-          </para>
-          <para>
-            <num>(9)</num>
-            <text>Shall maintain a finished floor elevation no higher than twenty inches above the exterior finished grade; and</text>
-          </para>
-          <para>
-            <num>(10)</num>
-            <text>Shall maintain required covered parking in accordance with the provisions of <cite path="19.10">this chapter</cite>. The exterior materials and roofing proposed for any garage shall be the same as those materials used on the main structure.</text>
+            <num>(4)</num>
+            <text>Shall have roofing material complying with the most recent editions of the Uniform Building Code adopted by the city;</text>
           </para>
         </para>
         <para>
           <num>(E)</num>
           <text>Cancellation of State Registration. Whenever a manufactured home is installed on a permanent foundation, any registration of the manufactured home with the state of California shall be canceled, pursuant to state laws and regulations. Before any occupancy certificate may be issued for use of such a manufactured home, the owner shall provide to the building official satisfactory evidence showing that the state registration of the manufactured home has been or will, with certainty, be canceled; if the manufactured home is new and has never been registered with the state, the owner shall provide the building official with a statement to that effect from the dealer selling the home.</text>
+          <text></text>
         </para>
         <annotations>
           <annotation type="History">Ord. 2001-02 § 1, 2001</annotation>
           <annotation app="2024-03-21" doc="City of American Canyon, Cal., Ord. No. 2024-01" eff="2024-03-21" path="attachments|B|19.10|19.10.130" type="History"/>
+          <annotation app="2024-05-02" doc="City of American Canyon, Cal., Ord. No. 2024-04" eff="2024-05-02" path="§3" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3410,7 +3392,7 @@
               <tr>
                 <td>Farm employees housing</td>
                 <td colspan="2">-</td>
-                <td>C</td>
+                <td>P</td>
                 <td proof="needed"/>
               </tr>
               <tr>
@@ -3418,6 +3400,12 @@
                 <td colspan="2">-</td>
                 <td>-</td>
                 <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>Low Barrier Navigation Center</td>
+                <td colspan="2">P</td>
+                <td>P</td>
+                <td/>
               </tr>
               <tr>
                 <td>Mobilehome</td>
@@ -4426,7 +4414,7 @@
             </tbody>
           </table>
         </text>
-        <text>1 Permitted and conditionally permitted uses on parcels located within a designated Napa County Airport compatibility zone may be restricted or prohibited subject to the requirements of the policies related to airport compatibility in the American Canyon general plan and the Napa County Airport land use compatibility plan. Restrictions may include the requirement for recordation of overflight or avigation easements.</text>
+        <text><sup>1</sup> Permitted and conditionally permitted uses on parcels located within a designated Napa County Airport compatibility zone may be restricted or prohibited subject to the requirements of the policies related to airport compatibility in the American Canyon general plan and the Napa County Airport land use compatibility plan. Restrictions may include the requirement for recordation of overflight or avigation easements.</text>
         <annotations>
           <annotation type="History">Ord. 2018-06 § 7, 2018</annotation>
           <annotation type="History">Ord. 2018-05 § 3, 2018</annotation>
@@ -4443,12 +4431,14 @@
           <annotation type="History">Ord. 2004-10 Exh. 2, 2004</annotation>
           <annotation type="History">Ord. 2003-03, 2003</annotation>
           <annotation type="History">Ord. 2001-02 § 1, 2001</annotation>
+          <annotation app="2024-05-02" doc="City of American Canyon, Cal., Ord. No. 2024-04" eff="2024-05-02" path="§1" type="History"/>
+          <annotation app="2024-05-02" doc="City of American Canyon, Cal., Ord. No. 2024-04" eff="2024-05-02" path="§5" type="History"/>
         </annotations>
       </section>
       <section>
         <num>19.11.050</num>
         <heading>Development standards.</heading>
-        <text>Table 2 of <cite path="19.11">this chapter</cite> sets forth the minimum lot area for each commercial district.</text>
+        <text>Table 2 of <cite path="19.11" doc="City of American Canyon, Cal., Ord. No. 2024-04">this chapter</cite> sets forth the minimum lot area for each commercial district.</text>
         <text>
           <strong>Table 2</strong>
         </text>
@@ -4523,14 +4513,24 @@
                 <td>1.5</td>
               </tr>
               <tr>
-                <td class="text-indent-2">Residential portion</td>
+                <td>Residential portion</td>
                 <td>1.0</td>
                 <td>1.0</td>
               </tr>
               <tr>
-                <td class="text-indent-2">Commercial portion</td>
+                <td>Commercial portion</td>
                 <td>0.50</td>
                 <td>0.50</td>
+              </tr>
+              <tr>
+                <td>Residential (3-7 dwelling units)</td>
+                <td>1.0 FAR Minimum</td>
+                <td>1.0 FAR Minimum</td>
+              </tr>
+              <tr>
+                <td>Residential (8 or more dwelling units)</td>
+                <td>1.5 FAR Minimum</td>
+                <td>1.5 FAR Minimum</td>
               </tr>
               <tr>
                 <td>Maximum number of stories:</td>
@@ -4538,7 +4538,7 @@
                 <td proof="needed"/>
               </tr>
               <tr>
-                <td class="text-indent-2">All buildings</td>
+                <td>All buildings</td>
                 <td>2 stories</td>
                 <td>2 stories</td>
               </tr>
@@ -4548,12 +4548,12 @@
                 <td proof="needed"/>
               </tr>
               <tr>
-                <td class="text-indent-2">Residential or mixed-use structures</td>
+                <td>Residential or mixed-use structures</td>
                 <td>3 stories</td>
                 <td>3 stories west of Broadway</td>
               </tr>
               <tr>
-                <td class="text-indent-2">Residential, overnight accommodations and lodging services, or mixed-use structures</td>
+                <td>Residential, overnight accommodations and lodging services, or mixed-use structures</td>
                 <td>N/A</td>
                 <td>4 stories east of Broadway</td>
               </tr>
@@ -4568,12 +4568,12 @@
                 <td proof="needed"/>
               </tr>
               <tr>
-                <td class="text-indent-2">Residential or mixed-use structures</td>
+                <td>Residential or mixed-use structures</td>
                 <td>42 feet</td>
                 <td>42 feet west of Broadway</td>
               </tr>
               <tr>
-                <td class="text-indent-2">Residential, overnight accommodations and lodging services, or mixed-use structures</td>
+                <td>Residential, overnight accommodations and lodging services, or mixed-use structures</td>
                 <td>N/A</td>
                 <td>54 feet east of Broadway</td>
               </tr>
@@ -4599,6 +4599,7 @@
           <annotation type="History">Ord. 2004-05 § 1, 2004</annotation>
           <annotation type="History">Ord. 2003-03, 2003</annotation>
           <annotation type="History">Ord. 2001-02 § 1, 2001</annotation>
+          <annotation app="2024-05-02" doc="City of American Canyon, Cal., Ord. No. 2024-04" eff="2024-05-02" path="§4" type="History"/>
         </annotations>
       </section>
       <section>
@@ -15344,75 +15345,83 @@
       <heading>ACCESSORY DWELLING UNITS</heading>
       <section>
         <num>19.39.010</num>
-        <heading>Purpose of the chapter.</heading>
-        <text>The purpose of <cite path="19.39">this chapter</cite> is to increase the supply of smaller units and rental housing units by allowing accessory dwelling units on lots containing a single-family dwelling in various residential districts as shown on Table <cite path="|19.10.040">19.10.040</cite>, and to establish design and development standards for accessory dwelling units to ensure that they are compatible with existing neighborhoods and consistent with the general plan and its elements. Accessory dwelling units contribute needed housing to the community's housing stock.</text>
+        <heading>Purpose of the chapter</heading>
+        <text>The purpose of this chapter is to increase the supply of smaller units and rental housing units by allowing accessory dwelling units on lots containing a single-family dwelling in various residential districts as shown on Table 19.10.040, and to establish design and development standards for accessory dwelling units to ensure that they are compatible with existing neighborhoods and consistent with the general plan and its elements. Accessory dwelling units contribute needed housing to the community's housing stock.</text>
         <annotations>
           <annotation type="History">Ord. 2020-04 § 1, 2020</annotation>
           <annotation type="History">Ord. 2017-05 § 2, 2017</annotation>
+          <annotation app="2024-05-02" doc="City of American Canyon, Cal., Ord. No. 2024-04" eff="2024-05-02" path="§6" type="History"/>
         </annotations>
       </section>
       <section>
         <num>19.39.020</num>
-        <heading>Applicability.</heading>
-        <text>The provisions of <cite path="19.39">this chapter</cite> apply to all lots that are occupied with a single-family dwelling unit and multifamily dwelling and zoned residential. Accessory dwelling units do not exceed the allowable density for the lot upon which the accessory dwelling unit is located, and are a residential use that is consistent with the existing general plan and zoning designation for the lot.</text>
+        <heading>Applicability</heading>
+        <text>The provisions of this chapter apply to all lots that are occupied with a single-family dwelling unit and multifamily dwelling and zoned residential. Accessory dwelling units do not exceed the allowable density for the lot upon which the accessory dwelling unit is located and are a residential use that is consistent with the existing general plan and zoning designation for the lot.</text>
         <annotations>
           <annotation type="History">Ord. 2020-04 § 1, 2020</annotation>
           <annotation type="History">Ord. 2017-05 § 2, 2017</annotation>
+          <annotation app="2024-05-02" doc="City of American Canyon, Cal., Ord. No. 2024-04" eff="2024-05-02" path="§6" type="History"/>
         </annotations>
       </section>
       <section>
         <num>19.39.030</num>
-        <heading>General plan consistency.</heading>
-        <text>An accessory dwelling unit that conforms to <cite path="19.39">this chapter</cite> shall be deemed to be an accessory use or an accessory building and shall not be considered to exceed the allowable density for the lot upon which it is located, and shall be deemed to be a residential use that is consistent with the existing general plan and zoning designations for the lot. The accessory dwelling units shall not be considered in the application of any local ordinance, policy, or program to limit residential growth in accordance with <cite doc="Cal. Gov't Code" path="§65852.2|(a)|(8)">Government Code Section 65852.2(a)(8)</cite>.</text>
+        <heading>General plan consistency</heading>
+        <text>An accessory dwelling unit that conforms to this chapter shall be deemed to be an accessory use or an accessory building and shall not be considered to exceed the allowable density for the lot upon which it is located and shall be deemed to be a residential use that is consistent with the existing general plan and zoning designations for the lot. The accessory dwelling units shall not be considered in the application of any local ordinance, policy, or program to limit residential growth in accordance with <cite doc="Cal. Gov't Code" path="§65852.2|(a)|(8)">Government Code Section 65852.2(a)(8)</cite>.</text>
         <annotations>
           <annotation type="History">Ord. 2020-04 § 1, 2020</annotation>
           <annotation type="History">Ord. 2017-05 § 2, 2017</annotation>
+          <annotation app="2024-05-02" doc="City of American Canyon, Cal., Ord. No. 2024-04" eff="2024-05-02" path="§6" type="History"/>
         </annotations>
       </section>
       <section>
         <num>19.39.040</num>
-        <heading>Definitions.</heading>
-        <text>"Accessory dwelling unit" means one additional attached or detached residential dwelling unit one thousand two hundred square feet or less that is on the same parcel as a single-family dwelling, and provides permanent and independent provisions for living, sleeping, eating, cooking, and sanitation for one or more persons. An accessory dwelling unit also includes the following:</text>
+        <heading>Definitions</heading>
+        <text>"Accessory dwelling unit" means any of the following:</text>
         <para>
           <num>(1)</num>
-          <text>An efficiency unit, as defined in <cite doc="Cal. Health &amp; Safety Code" path="§17958.1">Section 17958.1 of the Health and Safety Code</cite>.</text>
+          <text>One dwelling unit attached to, within, or detached from the proposed or existing primary dwelling unit that is on the same parcel in areas zoned to allow single-family and/or multifamily dwelling residential use, and provides permanent and independent provisions for living, sleeping, eating, cooking, and sanitation for one or more persons.</text>
         </para>
         <para>
           <num>(2)</num>
+          <text>An efficiency unit, as defined in <cite doc="Cal. Health &amp; Safety Code" path="§17958.1">Section 17958.1 of the Health and Safety Code</cite>.</text>
+        </para>
+        <para>
+          <num>(3)</num>
           <text>A manufactured home, as defined in <cite doc="Cal. Health &amp; Safety Code" path="§18007">Section 18007 of the Health and Safety Code</cite>.</text>
         </para>
-        <text>"Junior accessory dwelling unit" means one accessory dwelling unit that is five hundred square feet or less that is contained entirely in the primary residence.</text>
-        <text>"Primary residence" means the residential dwelling that existed on the single-family parcel before or constructed concurrent with the accessory dwelling unit.</text>
+        <para>
+          <num>(4)</num>
+          <text>Multiple accessory dwelling units up to 25 percent of the existing multifamily dwelling units within portions of existing multifamily dwelling structures that are not used as livable space, including, but not limited to, storage rooms, boiler rooms, passageways, attics, basements, or garages, if each unit complies with state building standards for dwellings, as defined in <cite doc="Cal. Gov't Code" path="§65852.2">Government Code section 65852.2</cite>, subdivision (e)(1)(C).</text>
+        </para>
+        <text>"Junior accessory dwelling unit" means one accessory dwelling unit that is 500 square feet or less that is contained entirely in the primary residence or within an attached garage.</text>
+        <text>"Primary residence" means the residential dwelling that existed on the parcel before or constructed concurrent with the accessory dwelling unit.</text>
         <annotations>
           <annotation type="History">Ord. 2020-04 § 1, 2020</annotation>
           <annotation type="History">Ord. 2017-05 § 2, 2017</annotation>
+          <annotation app="2024-05-02" doc="City of American Canyon, Cal., Ord. No. 2024-04" eff="2024-05-02" path="§6" type="History"/>
         </annotations>
       </section>
       <section>
         <num>19.39.050</num>
-        <heading>Development standards—Generally.</heading>
+        <heading>Development standards—Generally</heading>
         <para>
           <num>(A)</num>
-          <text>The addition of an accessory dwelling unit to a primary residence requires the primary residence to remain in compliance with the applicable development standards for that home.</text>
-        </para>
-        <para>
-          <num>(B)</num>
           <text>Each accessory dwelling unit requires approval of a building permit.</text>
         </para>
         <para>
-          <num>(C)</num>
+          <num>(B)</num>
           <text>The applicant of each accessory dwelling unit building permit application shall identify the anticipated rent and household size of the new accessory dwelling unit.</text>
         </para>
         <para>
+          <num>(C)</num>
+          <text>One detached accessory dwelling unit, one attached accessory dwelling unit, and one junior accessory dwelling unit are permitted per single-family parcel.</text>
+        </para>
+        <para>
           <num>(D)</num>
-          <text>One detached accessory dwelling unit and one junior accessory dwelling unit are permitted per single-family parcel.</text>
+          <text>A multi-family or single-family primary residence dwelling must exist on the parcel before the accessory dwelling unit is built or it shall be built concurrently with the accessory dwelling unit.</text>
         </para>
         <para>
           <num>(E)</num>
-          <text>A single-family primary residence dwelling must exist on the parcel before the accessory dwelling unit is built or it shall be built concurrently with the accessory dwelling unit.</text>
-        </para>
-        <para>
-          <num>(F)</num>
           <text>Accessory dwelling units shall comply with the lot area, yard setback, height, and building coverage standards of the applicable residential zoning district as described in <cite path="|19.10.050">Section 19.10.050</cite> except for the following:</text>
           <para>
             <num>(1)</num>
@@ -15420,39 +15429,67 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>If the accessory dwelling unit is built in an existing accessory structure, the existing accessory structure setbacks apply and not the setbacks for a single-family house.</text>
+            <text>If the accessory dwelling unit is built in a previously-permitted accessory structure, the accessory structure setbacks apply and not the setbacks for a single-family house.</text>
           </para>
           <para>
             <num>(3)</num>
-            <text>Existing setbacks apply to existing structure conversions.</text>
+            <text>Development standards shall be waived to permit a detached accessory dwelling unit that is no greater than eight hundred square feet, and has four-foot setbacks.</text>
           </para>
           <para>
             <num>(4)</num>
-            <text>Development standards shall be waived to permit a detached accessory dwelling unit that is no greater than eight hundred square feet, sixteen feet in height, and has four-foot setbacks.</text>
+            <text>The maximum ADU height depends on these conditions:</text>
+            <para>
+              <num>(a)</num>
+              <text>A height of 16 feet for a detached accessory dwelling unit on a lot with an existing or proposed single family or multifamily dwelling unit.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>A height of 18 feet for a detached accessory dwelling unit on a lot with an existing or proposed single family or multifamily dwelling unit that is within one-half of one mile walking distance of a major transit stop or a high-quality transit corridor, as those terms are defined in <cite doc="Cal. Pub. Res. Code" path="§21155">Section 21155 of the Public Resources Code</cite>.</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>A local agency shall also allow an additional two feet in height to accommodate a roof pitch on the accessory dwelling unit that is aligned with the roof pitch of the primary dwelling unit.</text>
+            </para>
+            <para>
+              <num>(d)</num>
+              <text>A height of 18 feet for a detached accessory dwelling unit on a lot with an existing or proposed multifamily, multistory dwelling.</text>
+            </para>
+            <para>
+              <num>(e)</num>
+              <text>A height of 25 feet or the height limitation in the local zoning ordinance that applies to the primary dwelling, whichever is lower, for an accessory dwelling unit that is attached to a primary dwelling. This clause shall not require a local agency to allow an accessory dwelling unit to exceed two stories.</text>
+            </para>
           </para>
           <para>
             <num>(5)</num>
-            <text>The applicant shall not be required to correct pre-existing nonconforming zoning conditions as conditions of approval.</text>
+            <text>The applicant shall not be required to correct pre-existing nonconforming zoning conditions that are not related to the ADU as a condition of ADU approval.</text>
+          </para>
+        </para>
+        <para>
+          <num>(F)</num>
+          <text>Accessory Dwelling Living Area Standard.</text>
+          <para>
+            <num>(1)</num>
+            <text>A Detached accessory dwelling unit shall not exceed one 1,200 square feet, unless:</text>
+            <para>
+              <num>(a)</num>
+              <text>On a single-family lot, the detached ADU converts a previously-permitted accessory structure which is greater than 1,200 square feet.  In this circumstance, the ADU may equal the square footage of the existing accessory structure.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>On a lot with a multifamily primary dwelling, the detached ADU is not subject to a square foot limit (<cite doc="Cal. Gov't Code" path="§65852.2">Gov. Code</cite>, § 65852.2, subds. (e)(1)(A), (C), and (D)).</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>An Attached accessory dwelling unit may occupy up to fifty percent of the primary residence living area but shall not exceed 1,200 square feet.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>A Junior accessory dwelling unit shall not exceed 500 square feet.</text>
           </para>
         </para>
         <para>
           <num>(G)</num>
-          <text>Accessory Dwelling Living Area Standard.</text>
-          <para>
-            <num>(1)</num>
-            <text>Detached accessory dwelling units shall not exceed one thousand two hundred square feet and sixteen feet in height.</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>Attached accessory dwelling units may occupy up to fifty percent of the primary residence living area but shall not exceed one thousand two hundred square feet.</text>
-          </para>
-          <para>
-            <num>(3)</num>
-            <text>Junior accessory dwelling units shall not exceed five hundred square feet.</text>
-          </para>
-        </para>
-        <para>
-          <num>(H)</num>
           <text>Fire Sprinkler Requirements.</text>
           <para>
             <num>(1)</num>
@@ -15460,14 +15497,14 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>Under state law, in general, accessory dwelling units shall not be required to be equipped with fire sprinklers unless fire sprinklers are required for the primary residence. For purposes of this requirement, the following standards shall apply:</text>
+            <text>Accessory dwelling units shall not be required to be equipped with fire sprinklers unless fire sprinklers are required for the primary residence. For purposes of this requirement, the following standards shall apply:</text>
             <para>
               <num>(a)</num>
               <text>When the primary residence has fire sprinklers, the accessory dwelling unit shall be constructed with fire sprinklers.</text>
             </para>
             <para>
               <num>(b)</num>
-              <text>When the primary residence does not have fire sprinklers, the junior accessory dwelling unit and attached accessory dwelling unit do not require fire sprinklers unless the junior accessory dwelling unit or attached accessory dwelling unit increases the size of the house by at least fifty percent.</text>
+              <text>When the primary residence does not have fire sprinklers, the junior accessory dwelling unit and attached accessory dwelling unit do not require fire.</text>
             </para>
             <para>
               <num>(c)</num>
@@ -15476,7 +15513,7 @@
           </para>
         </para>
         <para>
-          <num>(I)</num>
+          <num>(H)</num>
           <text>Deed Restrictions. Prior to issuing a building permit for an accessory dwelling unit, the property owner shall file with the county recorder, in a format with language approved by the city, a declaration of restrictions containing a reference to the deed under which the property was acquired by the present owner and stating that:</text>
           <para>
             <num>(1)</num>
@@ -15490,21 +15527,25 @@
             <num>(3)</num>
             <text>The property owner must occupy as a primary residence one of the two dwelling units on the property, either the primary or accessory dwelling unit except accessory dwelling unit and junior accessory dwelling unit applications submitted between January 1, 2020 to January 1, 2025.</text>
           </para>
+          <para>
+            <num>(4)</num>
+            <text>When the applicant is a qualified nonprofit housing organization, a deed restriction is not required.</text>
+          </para>
         </para>
         <para>
-          <num>(J)</num>
+          <num>(I)</num>
           <text>Impact Fees.</text>
           <para>
             <num>(1)</num>
-            <text>Accessory dwelling units less than seven hundred and fifty square feet are exempt from all city impact fees.</text>
+            <text>Accessory dwelling units less than 750 square feet are exempt from all city impact fees.</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>Impact fees for accessory dwelling units equal or greater than seven hundred and fifty square feet are exempt from water and sewer capacity fees. All remaining impact fees shall be charged proportionately in relation to the square footage of the primary dwelling unit.</text>
+            <text>Impact fees for accessory dwelling units equal or greater than 750 square feet are exempt from water and sewer capacity fees. All remaining impact fees shall be charged proportionately in relation to the square footage of the primary dwelling unit.</text>
           </para>
         </para>
         <para>
-          <num>(K)</num>
+          <num>(J)</num>
           <text>Accessory Dwelling Units on Multifamily Dwellings. The building division shall review and approve ministerially accessory dwelling units under the following conditions.</text>
           <para>
             <num>(1)</num>
@@ -15516,68 +15557,58 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>An existing multifamily dwelling is permitted up to two detached accessory dwelling units on the same lot. Each detached accessory dwelling unit shall subject to a height limit of sixteen feet and four-foot rear yard and side yard setbacks.</text>
+            <text>An existing multifamily dwelling is permitted a minimum of one accessory dwelling unit up to two detached accessory dwelling units on the same lot. Each detached accessory dwelling unit shall subject to a height limit in accordance with <cite path="|19.35.050|(E)|(4)">Section 19.35.050(E)(4)</cite> and four- foot rear yard and side yard setbacks.</text>
           </para>
         </para>
         <para>
-          <num>(L)</num>
+          <num>(K)</num>
           <text>CC&amp;Rs. As defined in <cite doc="Cal. Civ. Code" path="§4751">California Civil Code Section 4751</cite> or any successor statute, any covenant, condition, and restriction (CC&amp;R) or contained in any deed, contract, security instrument, or other instrument affecting the transfer or sale of any interest in a planned development, and any provision of a governing document, that effectively prohibits or unreasonably restricts the construction or use of an accessory dwelling unit or junior accessory dwelling unit on a lot zoned for single-family residential use that meets the above-described minimum standards (subsections F and G) established for those units shall be void and unenforceable.</text>
         </para>
         <annotations>
           <annotation type="History">Ord. 2020-04 § 1, 2020</annotation>
           <annotation type="History">Ord. 2017-05 § 2, 2017</annotation>
+          <annotation app="2024-05-02" doc="City of American Canyon, Cal., Ord. No. 2024-04" eff="2024-05-02" path="§6" type="History"/>
         </annotations>
       </section>
       <section>
         <num>19.39.060</num>
-        <heading>Junior accessory dwelling unit standards.</heading>
+        <heading>Junior accessory dwelling unit standards</heading>
         <para>
           <num>(A)</num>
           <text>Each junior accessory dwelling unit shall comply with the following building standards.</text>
           <para>
             <num>(1)</num>
-            <text>Electric service may not exceed one hundred twenty volts.</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>No appliances may be fueled with natural gas or propane.</text>
-          </para>
-          <para>
-            <num>(3)</num>
             <text>The dwelling must have its own exterior entrance.</text>
           </para>
           <para>
-            <num>(4)</num>
-            <text>The kitchen must include a sink, cooking appliance, counter surface, and storage cabinets that meet minimum building code standards.</text>
+            <num>(2)</num>
+            <text>The kitchen must include a cooking facility with appliances and includes a food preparation counter and storage cabinets.</text>
           </para>
           <para>
-            <num>(5)</num>
-            <text>The kitchen sink waste line may not exceed one and one-half inches.</text>
-          </para>
-          <para>
-            <num>(6)</num>
+            <num>(3)</num>
             <text>The bathroom may be included in the unit or shared with the primary residence.</text>
           </para>
           <para>
-            <num>(7)</num>
+            <num>(4)</num>
             <text>Junior accessory dwelling units are exempt from the building code wall separation requirements with the primary residence.</text>
           </para>
         </para>
         <annotations>
           <annotation type="History">Ord. 2020-04 § 1, 2020</annotation>
           <annotation type="History">Ord. 2017-05 § 2, 2017</annotation>
+          <annotation app="2024-05-02" doc="City of American Canyon, Cal., Ord. No. 2024-04" eff="2024-05-02" path="§6" type="History"/>
         </annotations>
       </section>
       <section>
         <num>19.39.070</num>
-        <heading>Parking standards.</heading>
+        <heading>Parking standards</heading>
         <para>
           <num>(A)</num>
-          <text>When accessory dwelling unit parking is required by <cite path="19.39">this chapter</cite> or provided at the discretion of the homeowner, parking spaces may be covered or uncovered, provided as tandem parking on an existing driveway or on a paved surface in a setback or yard area.</text>
+          <text>When accessory dwelling unit parking is required by this chapter or provided at the discretion of the homeowner, parking spaces may be covered or uncovered, provided as tandem parking on an existing driveway or on a paved surface in a setback or yard area.</text>
         </para>
         <para>
           <num>(B)</num>
-          <text>Primary Residence. Parking for the primary residence must comply with <cite path="19.21">Chapter 19.21</cite>.</text>
+          <text>Primary Residence. Parking for the primary residence must comply with Chapter 19.21 except when the garage is converted to a ADU.</text>
         </para>
         <para>
           <num>(C)</num>
@@ -15588,29 +15619,54 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>Notwithstanding subsection (C)(1), on-site parking is not required if the detached accessory dwelling unit is located within one-half mile walking distance of public transit or within one block of a car-sharing pickup/drop-off location.</text>
+            <text>Notwithstanding subsection (C)(1), on-site ADU parking is not required when:</text>
+            <para>
+              <num>(a)</num>
+              <text>The detached accessory dwelling unit is located within one-half mile walking distance of public transit or within one block of a car-sharing pickup/drop-off location; and/or</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>The ADU is located within an architecturally and historically significant historic district; and/or</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>The ADU is part of the proposed or existing primary residence or an accessory structure; and/or</text>
+            </para>
+            <para>
+              <num>(d)</num>
+              <text>On-street parking permits are required but not offered to the occupant of the ADU; and/or</text>
+            </para>
+            <para>
+              <num>(e)</num>
+              <text>A car share vehicle is located within one block of the accessory dwelling unit; and/or</text>
+            </para>
+            <para>
+              <num>(f)</num>
+              <text>An accessory dwelling unit building permit application is submitted in conjunction with a building permit application for a new single-family dwelling or a new multifamily dwelling on the same lot.</text>
+            </para>
           </para>
         </para>
         <para>
-          <num>(D)</num>
+          <num>D.</num>
           <text>Attached Accessory Dwelling Unit. No on-site parking is required.</text>
         </para>
         <para>
-          <num>(E)</num>
+          <num>E.</num>
           <text>Junior Accessory Dwelling Unit. No on-site parking is required.</text>
         </para>
         <para>
-          <num>(F)</num>
-          <text>When a garage, carport, or covered parking structure is demolished in conjunction with the construction of an accessory dwelling unit or converted to an accessory dwelling unit, the city shall not require replacement of the off-street parking spaces.</text>
+          <num>F.</num>
+          <text>When a garage, carport, or covered parking structure is demolished in conjunction with the construction of an accessory dwelling unit or converted to an accessory dwelling unit, the city shall not require replacement of the off-street parking spaces. (Ord. 2020-04 § 1, 2020; Ord. 2017-05 § 2, 2017)</text>
         </para>
         <annotations>
           <annotation type="History">Ord. 2020-04 § 1, 2020</annotation>
           <annotation type="History">Ord. 2017-05 § 2, 2017</annotation>
+          <annotation app="2024-05-02" doc="City of American Canyon, Cal., Ord. No. 2024-04" eff="2024-05-02" path="§6" type="History"/>
         </annotations>
       </section>
       <section>
         <num>19.39.080</num>
-        <heading>Operational standards.</heading>
+        <heading>Operational standards</heading>
         <para>
           <num>(A)</num>
           <text>The accessory dwelling unit may not be sold separately from the primary residence.</text>
@@ -15626,56 +15682,48 @@
         <annotations>
           <annotation type="History">Ord. 2020-04 § 1, 2020</annotation>
           <annotation type="History">Ord. 2017-05 § 2, 2017</annotation>
+          <annotation app="2024-05-02" doc="City of American Canyon, Cal., Ord. No. 2024-04" eff="2024-05-02" path="§6" type="History"/>
         </annotations>
       </section>
       <section>
         <num>19.39.090</num>
-        <heading>Design standards.</heading>
-        <text>Accessory dwelling units shall comply with the following design standards that are intended to maximize the compatibility of accessory dwelling units with the neighborhoods in which they are located.</text>
+        <heading>Design standards</heading>
+        <text>Accessory dwelling units shall comply with the following standards.</text>
         <para>
           <num>(A)</num>
-          <text>The accessory dwelling unit shall be designed so the site appearance remains that of a single-family residence, insofar as possible.</text>
-        </para>
-        <para>
-          <num>(B)</num>
-          <text>Where feasible, any new entrance to an accessory dwelling unit attached to the primary residence shall be located on the side or rear of the structure.</text>
-        </para>
-        <para>
-          <num>(C)</num>
-          <text>The accessory dwelling unit shall be aesthetically compatible with the primary residence and the surrounding neighborhood, including coordinating colors, materials, roofing, building height, other architectural features, and landscaping.</text>
-        </para>
-        <para>
-          <num>(D)</num>
-          <text>The accessory dwelling unit location and orientation shall not materially reduce the privacy otherwise enjoyed by residents of adjacent parcels. The community development director shall consider, but is not limited to considering, the placement of windows, decks and balconies, landscape screening, height, and number of stories in determining if privacy will be materially reduced.</text>
-        </para>
-        <para>
-          <num>(E)</num>
           <text>An accessory dwelling unit connected to an onsite water treatment system requires a percolation test completed within the last five years, or, if the percolation test has been recertified, within the last ten years.</text>
         </para>
         <annotations>
           <annotation type="History">Ord. 2020-04 § 1, 2020</annotation>
           <annotation type="History">Ord. 2017-05 § 2, 2017</annotation>
+          <annotation app="2024-05-02" doc="City of American Canyon, Cal., Ord. No. 2024-04" eff="2024-05-02" path="§6" type="History"/>
         </annotations>
       </section>
       <section>
         <num>19.39.100</num>
-        <heading>Review and approval process.</heading>
+        <heading>Review and approval process</heading>
         <text>Permits for accessory dwelling units and junior accessory dwelling units shall be reviewed ministerially through the building division in accordance to <cite doc="Cal. Gov't Code" path="§65852.2">Government Code Section 65852.2</cite> (a) through (e).</text>
         <para>
           <num>(A)</num>
-          <text>The building division shall act on the application to create an accessory dwelling unit or junior accessory dwelling unit within sixty days from the date the building division receives a completed application if there is an existing single-family or multifamily dwelling on the lot.</text>
+          <text>The building division shall 'approve or deny' the application to create an accessory dwelling unit or junior accessory dwelling unit within sixty days from the date the building division receives a completed application if there is an existing single-family or multifamily dwelling on the lot.</text>
         </para>
         <para>
           <num>(B)</num>
-          <text>If the permit application to create an accessory dwelling unit or junior accessory dwelling unit is submitted concurrently with a permit application to create a new single-family dwelling on the lot, the building division may delay acting on the accessory dwelling unit or junior accessory dwelling unit permit application until the building division acts on the new single-family dwelling permit application, but the application to create the accessory dwelling unit or junior accessory dwelling unit shall be considered ministerial without discretionary review or a hearing. If the applicant requests a delay, the sixty day time period shall be tolled for the period of the delay.</text>
+          <text>If the City denies an accessory dwelling unit building permit application, the applicant shall receive a list of application deficiencies that would remedy a subsequent building permit application.</text>
+          <text><strong><em>JUSTIFICATION: </em></strong>See HCD Comment #11 related to the City's obligation to approve or deny an ADU application within 60-days.</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>If the permit application to create an accessory dwelling unit or junior accessory dwelling unit is submitted concurrently with a permit application to create a new single-family dwelling on the lot, the building division may delay acting on the accessory dwelling unit or junior accessory dwelling unit permit application until the building division acts on the new single-family dwelling permit application, but the application to create the accessory dwelling unit or junior accessory dwelling unit shall be considered ministerial without discretionary review or a hearing. If the applicant requests a delay, the sixty-day time period shall be tolled for the period of the delay.</text>
         </para>
         <annotations>
           <annotation type="History">Ord. 2020-04 § 1, 2020</annotation>
+          <annotation app="2024-05-02" doc="City of American Canyon, Cal., Ord. No. 2024-04" eff="2024-05-02" path="§6" type="History"/>
         </annotations>
       </section>
       <section>
         <num>19.39.110</num>
-        <heading>Code enforcement.</heading>
+        <heading>Code enforcement</heading>
         <text>For accessory dwelling units built before January 1, 2020, the property owner may request delayed enforcement of building standards for five years.</text>
         <para>
           <num>(A)</num>
@@ -15687,6 +15735,7 @@
         </para>
         <annotations>
           <annotation type="History">Ord. 2020-04 § 1, 2020</annotation>
+          <annotation app="2024-05-02" doc="City of American Canyon, Cal., Ord. No. 2024-04" eff="2024-05-02" path="§6" type="History"/>
         </annotations>
       </section>
     </container>
