@@ -56,7 +56,7 @@
           <text codify:value="">Ensure excellence in site planning and architectural design, consistent with the general plan, and applicable local, regional, and state development policies, and municipal code standards.</text>
           <text>(Ord. 2001-02 § 1, 2001.)</text>
         </section>
-        <codify:replace path="19.41.010" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.41.010" codified:citation="Section 19.41.010" codified:display="Amend">
+        <codify:replace path="19.41.010" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.41.010">
           <section>
             <num>19.41.010</num>
             <heading>Purpose</heading>
@@ -64,7 +64,7 @@
           </section>
         </codify:replace>
         <section>
-          <codify:replace path="19.41.020" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.41.020" codified:citation="Section 19.41.020" codified:display="Amend"/>
+          <codify:replace path="19.41.020" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.41.020"/>
           <num>19.41.020</num>
           <heading>Applicability</heading>
           <text>Design permit approval by the community development director, planning commission, or city council is required for the following:</text>
@@ -83,7 +83,7 @@
           </para>
         </section>
         <section>
-          <codify:replace path="19.41.030" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.41.030" codified:citation="Section 19.41.030" codified:display="Amend"/>
+          <codify:replace path="19.41.030" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.41.030"/>
           <num>19.41.030</num>
           <heading>Design permit approval</heading>
           <text>Except as provided in this chapter, no building or structure may be erected, and no proposed outdoor land use may permitted until a design permit application has been approved by the community development director, planning commission, or city council as required below. Such review and approval may take place concurrently with the review of any other required approvals.</text>
@@ -142,7 +142,7 @@
           </para>
         </section>
         <section>
-          <codify:replace path="19.41.040" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.41.040" codified:citation="Section 19.41.040" codified:display="Amend"/>
+          <codify:replace path="19.41.040" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.41.040"/>
           <num>19.41.040</num>
           <heading>Scope of design permit review</heading>
           <text>The following areas of design shall be considered in reviewing design permits:</text>
@@ -197,7 +197,7 @@
           </para>
         </section>
         <section>
-          <codify:replace path="19.41.050" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.41.050" codified:citation="Section 19.41.050" codified:display="Amend"/>
+          <codify:replace path="19.41.050" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.41.050"/>
           <num>19.41.050</num>
           <heading>Required findings</heading>
           <text>Approval of a design permit application may be granted by the appropriate decision-making authority only if all the following findings are made:</text>
@@ -224,7 +224,7 @@
           <text codify:value="">(Ord. 2001-02 § 1, 2001; Ord. 2010-03 § 3, 2010.)</text>
         </section>
         <section>
-          <codify:replace path="19.41.060" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.41.060" codified:citation="Section 19.41.060" codified:display="Amend"/>
+          <codify:replace path="19.41.060" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.41.060"/>
           <num>19.41.060</num>
           <heading>Expiration of approval</heading>
           <para>
