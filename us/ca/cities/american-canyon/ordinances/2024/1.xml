@@ -333,7 +333,7 @@
       <num>19.14</num>
       <heading>INDUSTRIAL DISTRICTS</heading>
       <section>
-        <codify:replace path="|19.14.010" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.14.010" codified:citation="Section 19.14.010" codified:display="Amend"/>
+        <codify:replace path="|19.14.010" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.14.010"/>
         <num>19.14.010</num>
         <heading>Purpose and intent.</heading>
         <text>The purpose and intent of <cite doc="City of American Canyon, Cal., Code" path="19.14">this chapter</cite> is to:</text>
@@ -347,7 +347,7 @@
         </para>
       </section>
       <section>
-        <codify:replace path="|19.14.020" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.14.020" codified:citation="Section 19.14.020" codified:display="Amend"/>
+        <codify:replace path="|19.14.020" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.14.020"/>
         <num>19.14.020</num>
         <heading>Establishment of districts.</heading>
         <text><cite doc="City of American Canyon, Cal., Code" path="19.14">This chapter</cite> establishes three zoning districts to allow a broad range of industrial uses within those districts. The following industrial districts are established:</text>
@@ -365,7 +365,7 @@
         <heading>Applicability.</heading>
         <text>The provisions of <cite doc="City of American Canyon, Cal., Code" path="19.14">this chapter</cite> shall apply to all uses within the industrial districts as shown on the official zoning district map of the city. Development within the industrial districts shall conform to all applicable development standards, regulations, and performance standards of <cite doc="City of American Canyon, Cal., Code" path="19">this title</cite>. (Ord. 2001-02 § 1, 2001)</text>
       </section>
-      <codify:replace path="|19.14.030" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.14.030" codified:citation="Section 19.14.030" codified:display="Amend">
+      <codify:replace path="|19.14.030" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.14.030">
         <section>
           <num>19.14.030</num>
           <heading>Applicability.</heading>
@@ -373,7 +373,7 @@
         </section>
       </codify:replace>
       <section>
-        <codify:replace path="|19.14.040" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.14.040" codified:citation="Section 19.14.040" codified:display="Amend"/>
+        <codify:replace path="|19.14.040" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.14.040"/>
         <num>19.14.040</num>
         <heading>Performance standards.</heading>
         <para>
@@ -414,7 +414,7 @@
         </para>
       </section>
       <section>
-        <codify:replace path="|19.14.050" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.14.050" codified:citation="Section 19.14.050" codified:display="Amend"/>
+        <codify:replace path="|19.14.050" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.14.050"/>
         <num>19.14.050</num>
         <heading>Permitted uses.</heading>
         <text>Table <cite doc="City of American Canyon, Cal., Code" path="|19.14.050">19.14.050</cite> of <cite doc="City of American Canyon, Cal., Code" path="|19.14.050">this section</cite> sets forth the permitted and conditionally-permitted uses for each industrial district. A "P" designates a permitted use. A "C" indicates a conditionally permitted use subject to approval of a use permit by the planning commission. An "M" indicates a minor use permit is required pursuant to <cite doc="City of American Canyon, Cal., Code" path="19.42">Chapter 19.42</cite>. If no letter is found opposite a particular use, it is not permitted in that district.</text>
@@ -1526,7 +1526,7 @@
         </text>
       </section>
       <section>
-        <codify:replace path="|19.14.060" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.14.060" codified:citation="Section 19.14.060" codified:display="Amend"/>
+        <codify:replace path="|19.14.060" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.14.060"/>
         <num>19.14.060</num>
         <heading>Development standards.</heading>
         <text>Table <cite doc="City of American Canyon, Cal., Code" path="|19.14.060">19.14.060</cite> of <cite doc="City of American Canyon, Cal., Code" path="19.14">this chapter</cite> sets forth the minimum lot area, minimum yard setbacks, and lot coverage standards for each industrial district.</text>
@@ -1652,7 +1652,7 @@
         <text codify:value="">(Ord. 2009-07 § 4, 2009; Ord. 2004-10 Exh. 5, 2004; Ord. 2001-02 § 1, 2001)</text>
       </section>
       <section>
-        <codify:replace path="|19.14.070" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.14.070" codified:citation="Section 19.14.070" codified:display="Amend"/>
+        <codify:replace path="|19.14.070" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.14.070"/>
         <num>19.14.070</num>
         <heading>Automobile parking requirements.</heading>
         <para>
@@ -2018,7 +2018,7 @@
         </para>
       </section>
       <section>
-        <codify:replace path="|19.14.080" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.14.080" codified:citation="Section 19.14.080" codified:display="Amend"/>
+        <codify:replace path="|19.14.080" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.14.080"/>
         <num>19.14.080</num>
         <heading>Loading requirements.</heading>
         <para>
@@ -2099,7 +2099,7 @@
         </para>
       </section>
       <section>
-        <codify:replace path="|19.14.090" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.14.090" codified:citation="Section 19.14.090" codified:display="Amend"/>
+        <codify:replace path="|19.14.090" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.14.090"/>
         <num>19.14.090</num>
         <heading>Bicycle parking requirements.</heading>
         <para>
@@ -2171,7 +2171,7 @@
         </para>
       </section>
       <section>
-        <codify:insert path="19.14" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.14.100" codified:citation="Section 19.14.100" codified:display="New"/>
+        <codify:insert path="19.14" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.14.100"/>
         <num>19.14.100</num>
         <heading>Building Design (All Industrial Districts).</heading>
         <para>
@@ -2220,7 +2220,7 @@
         </para>
       </section>
     </container>
-    <codify:replace path="19.20|heading" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.20" codified:citation="Chapter 19.20" codified:display="Amend">
+    <codify:replace path="19.20|heading" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.20">
       <heading>PAOLI LIGHT INDUSTRIAL COMMERCIAL OVERLAY DISTRICT</heading>
     </codify:replace>
     <container>
@@ -2228,13 +2228,13 @@
       <num>19.20</num>
       <heading>PAOLI LIGHT INDUSTRIAL COMMERCIAL OVERLAY DISTRICT</heading>
       <section>
-        <codify:insert path="19.20" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.20.010" codified:citation="Section 19.20.010" codified:display="New"/>
+        <codify:insert path="19.20" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.20.010"/>
         <num>19.20.010</num>
         <heading>Purpose.</heading>
         <text>The purpose of the Paoli Light Industrial Commercial Overlay District is to accommodate commercial and commercially related uses that capitalize on vehicle access and visibility from Highway 29 and Newell Drive and serve industrial uses in the City's Industrial Parks.</text>
       </section>
       <section>
-        <codify:insert path="19.20" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.20.020" codified:citation="Section 19.20.020" codified:display="New"/>
+        <codify:insert path="19.20" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.20.020"/>
         <num>19.20.020</num>
         <heading>Allowable uses.</heading>
         <para>
@@ -2387,7 +2387,7 @@
           <text>Intent. The intent of <cite doc="City of American Canyon, Cal., Code" path="19.10">this chapter</cite> is to establish a range of permitted uses and reasonable development standards to guide the orderly development within each residential district in a manner consistent with the general plan's land use schedule and subarea schedule. (Ord. 2001-02 § 1, 2001)</text>
         </para>
       </section>
-      <codify:replace path="19.10.010" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.010" codified:citation="Section 19.10.010" codified:display="Amend">
+      <codify:replace path="19.10.010" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.010">
         <section>
           <num>19.10.010</num>
           <heading>Purpose and intent.</heading>
@@ -2422,7 +2422,7 @@
         </section>
       </codify:replace>
       <section>
-        <codify:replace path="19.10.020" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.020" codified:citation="Section 19.10.020" codified:display="Amend"/>
+        <codify:replace path="19.10.020" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.020"/>
         <num>19.10.020</num>
         <heading>Establishment of districts.</heading>
         <text>In order to provide sufficient land to meet the housing needs of all existing and future residents of the city, the following residential districts are established:</text>
@@ -2479,7 +2479,7 @@
           <text>RO (residential overlay) district to provide for high-density multifamily residential uses on selected sites in community commercial and neighborhood commercial districts, in single or multi-use structures. The RO district provides a density of twenty units per gross acre west of Broadway/Highway 29, a density of thirty-five units per gross acre east of Broadway/Highway 29. Development standards shall comply with Tables 1 and 2 of <cite doc="City of American Canyon, Cal., Code" path="19.11">Chapter 19.11</cite>, community commercial and neighborhood commercial district for multifamily residential and mixed-use structures. (Ord. 2015-01 § 2, 2015; Ord. 2006-07 § 4, 2006; Ord. 2001-11 § 1, 2001; Ord. 2001-02 § 1, 2001)</text>
         </para>
       </section>
-      <codify:replace path="19.10.020|(F)" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.020|(F)" codified:citation="Section 19.10.020" codified:display="Amend">
+      <codify:replace path="19.10.020|(F)" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.020|(F)">
         <para>
           <num codify:value="(F)">F.</num>
           <text>RO (residential overlay) district to provide for high-density multifamily residential uses on selected sites in community commercial and neighborhood commercial districts, in single or multi-use structures. The RO district provides a density of twenty units per gross acre west of Broadway/Highway 29, a density of thirty-five units per gross acre east of Broadway/Highway 29. Development standards shall comply with Tables 1 and 2 of <cite doc="City of American Canyon, Cal., Code" path="19.11">Chapter 19.11</cite>, community commercial and neighborhood commercial district for multifamily residential and mixed-use structures.</text>
@@ -2490,7 +2490,7 @@
         <heading>Applicability.</heading>
         <text>The provisions of <cite doc="City of American Canyon, Cal., Code" path="19.10">this chapter</cite> shall apply to all uses within the residential districts as shown on the official zoning district map of the city. Development within the residential districts shall conform with all applicable development standards, regulations, and performance standards of <cite doc="City of American Canyon, Cal., Code" path="19">this title</cite>. (Ord. 2001-02 § 1, 2001)</text>
       </section>
-      <codify:replace path="19.10.030" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.030" codified:citation="Section 19.10.030" codified:display="Amend">
+      <codify:replace path="19.10.030" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.030">
         <section>
           <num>19.10.030</num>
           <heading>Applicability.</heading>
@@ -2498,7 +2498,7 @@
         </section>
       </codify:replace>
       <section>
-        <codify:replace path="19.10.040" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.040" codified:citation="Section 19.10.040" codified:display="Amend"/>
+        <codify:replace path="19.10.040" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.040"/>
         <num>19.10.040</num>
         <heading>Permitted uses.</heading>
         <text>Table <cite doc="City of American Canyon, Cal., Code" path="|19.10.040">19.10.040</cite> of <cite doc="City of American Canyon, Cal., Code" path="|19.10.040">this section</cite> sets forth the permitted and conditionally permitted uses for each residential district. A "P" designates a permitted use. A "C" indicates a conditionally permitted use subject to approval of a use permit by the planning commission. An "M" indicates a minor use permit is required pursuant to <cite doc="City of American Canyon, Cal., Code" path="19.42">Chapter 19.42</cite>. If no letter is found opposite a particular use, it is not permitted in that district.</text>
@@ -3730,7 +3730,7 @@
         <text codify:value="">(Ord. 2017-07 § 2, 2017; Ord. 2015-01 § 2, 2015; Ord. 2014-06 § 3, 2014; Ord. 2013-07 § 3, 2013; Ord. 2010-03 § 3, 2010; Ord. 2010-02 § 4, 2010; Ord. 2009-12 § 3, 2009; Ord. 2009-11 § 3, 2009; Ord. 2005-02, 2005; Ord. 2001-11 § 1, 2001; Ord. 2001-02 § 1, 2001)</text>
       </section>
       <section>
-        <codify:replace path="19.10.050" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.050" codified:citation="Section 19.10.050" codified:display="Amend"/>
+        <codify:replace path="19.10.050" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.050"/>
         <num>19.10.050</num>
         <heading>Lot area, yard setbacks, and building coverage standards.</heading>
         <text>Table <cite doc="City of American Canyon, Cal., Code" path="|19.10.050">19.10.050</cite> of <cite doc="City of American Canyon, Cal., Code" path="|19.10.050">this section</cite> sets forth the minimum lot area, minimum yard setbacks, and lot coverage standards for each residential district. The provisions of <cite doc="City of American Canyon, Cal., Code" path="|19.10.050">this section</cite> shall establish the minimum lot area and yard and setback standards for each residential zoning district.</text>
@@ -4214,7 +4214,7 @@
         </para>
       </section>
       <section>
-        <codify:replace path="19.10.060" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.060" codified:citation="Section 19.10.060" codified:display="Amend"/>
+        <codify:replace path="19.10.060" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.060"/>
         <num>19.10.060</num>
         <heading>Accessory structures, equipment and uses.</heading>
         <text>Accessory structures, equipment and uses are permitted in required yards of residential districts as provided herein:</text>
@@ -4264,7 +4264,7 @@
         </para>
       </section>
       <section>
-        <codify:replace path="19.10.070" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.070" codified:citation="Section 19.10.070" codified:display="Amend"/>
+        <codify:replace path="19.10.070" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.070"/>
         <num>19.10.070</num>
         <heading>Distance between buildings in residential districts.</heading>
         <text>The provisions of <cite doc="City of American Canyon, Cal., Code" path="|19.10.070">this section</cite> shall apply where more than one building is placed on a parcel in a residential district.</text>
@@ -4310,7 +4310,7 @@
         </para>
       </section>
       <section>
-        <codify:replace path="19.10.080" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.080" codified:citation="Section 19.10.080" codified:display="Amend"/>
+        <codify:replace path="19.10.080" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.080"/>
         <num>19.10.080</num>
         <heading>Fences and walls.</heading>
         <text>Fences and walls in residential districts may be erected and maintained in required yards subject to the standards specified herein. All height limitations applying to fences and walls shall also apply to hedges planted within yards and forming a barrier serving the same purpose as a fence or wall.</text>
@@ -4388,7 +4388,7 @@
         </para>
       </section>
       <section>
-        <codify:replace path="19.10.090" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.090" codified:citation="Section 19.10.090" codified:display="Amend"/>
+        <codify:replace path="19.10.090" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.090"/>
         <num>19.10.090</num>
         <heading>Height limits.</heading>
         <para>
@@ -4417,7 +4417,7 @@
         <heading>Parking requirements.</heading>
         <text>Parking requirements for residential uses are contained in <cite doc="City of American Canyon, Cal., Code" path="19.21">Chapter 19.21</cite>, Parking and Loading Standards. (Ord. 2004-10 Exh. 1, 2004; Ord. 2001-02 § 1, 2001)</text>
       </section>
-      <codify:replace path="19.10.100" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.100" codified:citation="Section 19.10.100" codified:display="Amend">
+      <codify:replace path="19.10.100" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.100">
         <section>
           <num>19.10.100</num>
           <heading>Parking requirements.</heading>
@@ -4425,7 +4425,7 @@
         </section>
       </codify:replace>
       <section>
-        <codify:replace path="19.10.110" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.110" codified:citation="Section 19.10.110" codified:display="Amend"/>
+        <codify:replace path="19.10.110" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.110"/>
         <num>19.10.110</num>
         <heading>Garage sales.</heading>
         <text>Garage sales, estate sales (which includes estate auctions), and personal property sales shall be subject to the following regulations:</text>
@@ -4446,14 +4446,14 @@
           <text>Signs. All signs shall conform to the requirements set forth in <cite doc="City of American Canyon, Cal., Code" path="19">this title</cite> for sign regulations. All signs shall be removed within two days of the estate or garage sale. (Ord. 2001-02 § 1, 2001)</text>
         </para>
       </section>
-      <codify:replace path="19.10.110|(D)" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.110|(D)" codified:citation="Section 19.10.110" codified:display="Amend">
+      <codify:replace path="19.10.110|(D)" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.110|(D)">
         <para>
           <num>(D)</num>
           <text>Signs. All signs shall conform to the requirements set forth in <cite doc="City of American Canyon, Cal., Code" path="19">this title</cite> for sign regulations. All signs shall be removed within two days of the estate or garage sale.</text>
         </para>
       </codify:replace>
       <section>
-        <codify:replace path="19.10.130" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.130" codified:citation="Section 19.10.130" codified:display="Amend"/>
+        <codify:replace path="19.10.130" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.130"/>
         <num>19.10.130</num>
         <heading>Manufactured homes.</heading>
         <para>
@@ -4518,19 +4518,19 @@
         </para>
       </section>
       <section>
-        <codify:replace path="19.10.140" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.140" codified:citation="Section 19.10.140" codified:display="Amend"/>
+        <codify:replace path="19.10.140" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.140"/>
         <num>19.10.140</num>
         <heading>Undergrounding of utilities.</heading>
         <text codify:value="Prior to the issuance of any permits for new development in any residential district, utility service to the site shall be undergrounded in accordance with the requirements of the public works department unless otherwise approved by the city engineer and community development director.">Prior to the issuance of any permits for new development in any residential district, utility service to the site shall be undergrounded in accordance with the requirements of the public works department unless otherwise approved by the city engineer and community development director. (Ord. 2001-02 § 1, 2001)</text>
       </section>
       <section>
-        <codify:replace path="19.10.150" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.150" codified:citation="Section 19.10.150" codified:display="Amend"/>
+        <codify:replace path="19.10.150" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.150"/>
         <num>19.10.150</num>
         <heading>Nonconforming building lines.</heading>
         <text codify:value="Where an existing, legal, nonconforming structure encroaches into a setback which was established after the building was constructed, the existing building line may be continued, subject to community development director approval."/>
       </section>
       <section>
-        <codify:replace path="19.10.160" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.160" codified:citation="Section 19.10.160" codified:display="Amend"/>
+        <codify:replace path="19.10.160" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.160"/>
         <num>19.10.160</num>
         <heading>Single room occupancy.</heading>
         <para>
