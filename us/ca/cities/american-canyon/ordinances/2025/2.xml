@@ -520,7 +520,7 @@
   <attachment id="law">
     <prefix>Exhibit</prefix>
     <num>A</num>
-    <codify:insert path="19|3" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.55" codified:citation="Chapter 19.55" codified:display="New">
+    <codify:insert path="19|3" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.55">
       <container>
         <prefix>Chapter</prefix>
         <num>19.55</num>
@@ -533,13 +533,13 @@
         <num>19.55</num>
         <heading>Airport Land Use Compatibility</heading>
         <section>
-          <codify:insert path="19.55" renumber-paras="true" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.55.010" codified:citation="Section 19.55.010" codified:display="New"/>
+          <codify:insert path="19.55" renumber-paras="true" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.55.010"/>
           <num>19.55.010</num>
           <heading>Purpose and Applicability</heading>
           <text><cite doc="City of American Canyon, Cal., Code" path="19.55">This chapter</cite> establishes procedures to ensure development within American Canyon is compatible with the Napa County Airport Land Use Compatibility Plan (NALUCP) (General Plan Goal LU-9). The NALUCP, which is incorporated into the General Plan as a standalone document, provides policy direction for subsequent development in American Canyon that is subject to the NALUCP.</text>
         </section>
         <section>
-          <codify:insert path="19.55" renumber-paras="true" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.55.020" codified:citation="Section 19.55.020" codified:display="New"/>
+          <codify:insert path="19.55" renumber-paras="true" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.55.020"/>
           <num>19.55.020</num>
           <heading>Projects Subject to Napa Airport Land Use Commission Review.</heading>
           <text>Consistent with <cite doc="Cal. Pub. Util. Code" path="§21676|(b)">Public Utilities Code Section 21676(b)</cite>, the City shall refer the following actions to the Napa Airport Land Use Commission (ALUC) for determination of consistency with the NALUCP.</text>
@@ -573,25 +573,25 @@
           </para>
         </section>
         <section>
-          <codify:insert path="19.55" renumber-paras="true" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.55.030" codified:citation="Section 19.55.030" codified:display="New"/>
+          <codify:insert path="19.55" renumber-paras="true" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.55.030"/>
           <num>19.55.030</num>
           <heading>Projects Exempt from NALUCP</heading>
           <text>The NALUCP does not apply to Existing Land Uses as described in <cite doc="Cal. Pub. Util. Code" path="§21670|(a)">California Public Utilities Code 21670(a)</cite> and 21674(a).</text>
         </section>
         <section>
-          <codify:insert path="19.55" renumber-paras="true" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.55.040" codified:citation="Section 19.55.040" codified:display="New"/>
+          <codify:insert path="19.55" renumber-paras="true" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.55.040"/>
           <num>19.55.040</num>
           <heading>Projects Subject to City Review</heading>
           <text>Except for projects identified in ACMC <cite doc="City of American Canyon, Cal., Code" path="|19.55.020">Section 19.55.020</cite> and <cite doc="City of American Canyon, Cal., Code" path="|19.55.030">19.55.030</cite>, all new development within the City that is subject to the NALUCP shall be evaluated consistent with the procedures in NALUCP Section 5.1.</text>
         </section>
         <section>
-          <codify:insert path="19.55" renumber-paras="true" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.55.050" codified:citation="Section 19.55.050" codified:display="New"/>
+          <codify:insert path="19.55" renumber-paras="true" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.55.050"/>
           <num>19.55.050</num>
           <heading>Existing Nonconforming Uses that do not Conform to the NALUCP</heading>
-          <text>Existing uses that do not conform to the NALUCP shall be subject to nonconforming policies in ACMC <cite path="19.49">Chapter 19.49</cite>.</text>
+          <text>Existing uses that do not conform to the NALUCP shall be subject to nonconforming policies in ACMC <cite path="19.49" doc="City of American Canyon, Cal., Ord. No. 2025-02">Chapter 19.49</cite>.</text>
         </section>
         <section>
-          <codify:insert path="19.55" renumber-paras="true" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.55.060" codified:citation="Section 19.55.060" codified:display="New"/>
+          <codify:insert path="19.55" renumber-paras="true" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.55.060"/>
           <num>19.55.060</num>
           <heading>Napa Airport Compatability Policy Map</heading>
           <text>
