@@ -76,7 +76,7 @@
       <text>19.05.040 Residential Classifications</text>
       <text>Low Barrier Navigation Center: "a Housing First, low-barrier, service-enriched shelter focused on moving people into permanent housing that provides temporary living facilities while case managers connect individuals experiencing homelessness to income, public benefits, health services, shelter, and housing (See <cite doc="Cal. Gov't Code" path="§65660">Government Code § 65660</cite>).</text>
     </para>
-    <codify:replace path="19.05.040" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.05.040" codified:citation="Section 19.05.040" codified:display="Amend">
+    <codify:replace path="19.05.040" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.05.040">
       <section>
         <num>19.05.040</num>
         <heading>Residential classifications.</heading>
@@ -144,7 +144,7 @@
         </table>
       </text>
     </para>
-    <codify:replace path="19.11.040" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.11.040" codified:citation="Section 19.11.040" codified:display="Amend">
+    <codify:replace path="19.11.040" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.11.040">
       <section>
         <num>19.11.040</num>
         <heading>Permitted uses.</heading>
@@ -1285,7 +1285,7 @@
       <text>19.05.040 Residential Classifications</text>
       <text>Residential Care Home, Small: provision of twenty-four-hour nonmedical care of six or fewer persons in need of personal services, supervision, protection or assistance licensed by the state essential for sustaining the activities of daily living, or twenty-four-hour care for six or fewer foster children. Furthermore, Small residential care homes without State license personal services shall also have the same standards and processing as residential care homes. For the purposes of any law or zoning ordinance that relates to the residential use of property pursuant to this chapter, the residents and operators of the facility shall be considered a family. (see <cite doc="Cal. Health &amp; Safety Code" path="§1568.0831">Health and Safety Code § 1568.0831</cite>).</text>
     </para>
-    <codify:replace path="19.05.040" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.05.040" codified:citation="Section 19.05.040" codified:display="Amend">
+    <codify:replace path="19.05.040" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.05.040">
       <section>
         <num>19.05.040</num>
         <heading>Residential classifications.</heading>
@@ -1362,7 +1362,7 @@
         </table>
       </text>
     </para>
-    <codify:replace path="19.10.040" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.040" codified:citation="Section 19.10.040" codified:display="Amend">
+    <codify:replace path="19.10.040" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.040">
       <section>
         <num>19.10.040</num>
         <heading>Permitted uses.</heading>
@@ -2601,7 +2601,7 @@
     <text>Amend ACMC <cite doc="City of American Canyon, Cal., Code" path="|19.10.130">Section 19.10.130</cite> to allow manufactured housing subject only to the restrictions of single-family uses.</text>
     <include>
       <section>
-        <codify:replace path="19.10.130" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.130" codified:citation="Section 19.10.130" codified:display="Amend"/>
+        <codify:replace path="19.10.130" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.130"/>
         <num>19.10.130</num>
         <heading>Manufactured homes</heading>
         <para>
@@ -2800,11 +2800,11 @@
         </tbody>
       </table>
     </text>
-    <codify:replace path="19.11.050" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.11.050" codified:citation="Section 19.11.050" codified:display="Amend">
+    <codify:replace path="19.11.050" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.11.050">
       <section>
         <num>19.11.050</num>
         <heading>Development standards.</heading>
-        <text>Table 2 of <cite path="19.11">this chapter</cite> sets forth the minimum lot area for each commercial district.</text>
+        <text>Table 2 of <cite path="19.11" doc="City of American Canyon, Cal., Ord. No. 2024-04">this chapter</cite> sets forth the minimum lot area for each commercial district.</text>
         <text>
           <strong>Table 2</strong>
         </text>
@@ -3006,7 +3006,7 @@
         </tbody>
       </table>
     </text>
-    <codify:replace path="19.11.040" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.11.040" codified:citation="Section 19.11.040" codified:display="Amend">
+    <codify:replace path="19.11.040" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.11.040">
       <section>
         <num>19.11.040</num>
         <heading>Permitted uses.</heading>
@@ -4111,13 +4111,13 @@
         <text><cite doc="City of American Canyon, Cal., Code" path="|19.39.100">19.39.100</cite> Review and approval process.</text>
         <text><cite doc="City of American Canyon, Cal., Code" path="|19.39.110">19.39.110</cite> Code enforcement.</text>
         <section>
-          <codify:replace path="19.39.010" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.39.010" codified:citation="Section 19.39.010" codified:display="Amend"/>
+          <codify:replace path="19.39.010" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.39.010"/>
           <num>19.39.010</num>
           <heading>Purpose of the chapter</heading>
           <text codify:value="The purpose of this chapter is to increase the supply of smaller units and rental housing units by allowing accessory dwelling units on lots containing a single-family dwelling in various residential districts as shown on Table 19.10.040, and to establish design and development standards for accessory dwelling units to ensure that they are compatible with existing neighborhoods and consistent with the general plan and its elements. Accessory dwelling units contribute needed housing to the community's housing stock.">The purpose of this chapter is to increase the supply of smaller units and rental housing units by allowing accessory dwelling units on lots containing a single-family dwelling in various residential districts as shown on Table 19.10.040, and to establish design and development standards for accessory dwelling units to ensure that they are compatible with existing neighborhoods and consistent with the general plan and its elements. Accessory dwelling units contribute needed housing to the community's housing stock. (Ord. 2020-04 § 1, 2020; Ord. 2017-05 § 2, 2017)</text>
         </section>
         <section>
-          <codify:replace path="19.39.020" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.39.020" codified:citation="Section 19.39.020" codified:display="Amend"/>
+          <codify:replace path="19.39.020" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.39.020"/>
           <num>19.39.020</num>
           <heading>Applicability</heading>
           <text codify:value="The provisions of this chapter apply to all lots that are occupied with a single-family dwelling unit and multifamily dwelling and zoned residential. Accessory dwelling units do not exceed the allowable density for the lot upon which the accessory dwelling unit is located and are a residential use that is consistent with the existing general plan and zoning designation for the lot.">The provisions of this chapter apply to all lots that are occupied with a single-family dwelling unit and multifamily dwelling and zoned residential. Accessory dwelling units do not exceed the allowable density for the lot upon which the accessory dwelling unit is located and are a residential use that is consistent with the existing general plan and zoning designation for the lot. (Ord. 2020-04 § 1, 2020; Ord. 2017-05§ 2, 2017)</text>
@@ -4127,7 +4127,7 @@
           <heading>General plan consistency</heading>
           <text>An accessory dwelling unit that conforms to this chapter shall be deemed to be an accessory use or an accessory building and shall not be considered to exceed the allowable density for the lot upon which it is located and shall be deemed to be a residential use that is consistent with the existing general plan and zoning designations for the lot. The accessory dwelling units shall not be considered in the application of any local ordinance, policy, or program to limit residential growth in accordance with <cite doc="Cal. Gov't Code" path="§65852.2|(a)|(8)">Government Code Section 65852.2(a)(8)</cite>. (Ord. 2020-04 § 1, 2020; Ord. 2017-05 § 2, 2017)</text>
         </section>
-        <codify:replace path="19.39.030" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.39.030" codified:citation="Section 19.39.030" codified:display="Amend">
+        <codify:replace path="19.39.030" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.39.030">
           <section>
             <num>19.39.030</num>
             <heading>General plan consistency</heading>
@@ -4135,7 +4135,7 @@
           </section>
         </codify:replace>
         <section>
-          <codify:replace path="19.39.040" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.39.040" codified:citation="Section 19.39.040" codified:display="Amend"/>
+          <codify:replace path="19.39.040" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.39.040"/>
           <num>19.39.040</num>
           <heading>Definitions</heading>
           <text>"Accessory dwelling unit" means any of the following:</text>
@@ -4159,7 +4159,7 @@
           <text codify:value="&quot;Primary residence&quot; means the residential dwelling that existed on the parcel before or constructed concurrent with the accessory dwelling unit.">"Primary residence" means the residential dwelling that existed on the parcel before or constructed concurrent with the accessory dwelling unit. (Ord. 2020-04 § 1, 2020; Ord. 2017-05 § 2, 2017)</text>
         </section>
         <section>
-          <codify:replace path="19.39.050" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.39.050" codified:citation="Section 19.39.050" codified:display="Amend"/>
+          <codify:replace path="19.39.050" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.39.050"/>
           <num>19.39.050</num>
           <heading>Development standards—Generally</heading>
           <para>
@@ -4323,14 +4323,14 @@
             <text>CC&amp;Rs. As defined in <cite doc="Cal. Civ. Code" path="§4751">California Civil Code Section 4751</cite> or any successor statute, any covenant, condition, and restriction (CC&amp;R) or contained in any deed, contract, security instrument, or other instrument affecting the transfer or sale of any interest in a planned development, and any provision of a governing document, that effectively prohibits or unreasonably restricts the construction or use of an accessory dwelling unit or junior accessory dwelling unit on a lot zoned for single-family residential use that meets the above-described minimum standards (subsections F and G) established for those units shall be void and unenforceable. (Ord. 2020-04 § 1, 2020; Ord. 2017-05 § 2, 2017)</text>
           </para>
         </section>
-        <codify:replace path="19.39.050|(K)" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.39.050|(K)" codified:citation="Section 19.39.050" codified:display="Amend">
+        <codify:replace path="19.39.050|(K)" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.39.050|(K)">
           <para>
             <num>(K)</num>
             <text>CC&amp;Rs. As defined in <cite doc="Cal. Civ. Code" path="§4751">California Civil Code Section 4751</cite> or any successor statute, any covenant, condition, and restriction (CC&amp;R) or contained in any deed, contract, security instrument, or other instrument affecting the transfer or sale of any interest in a planned development, and any provision of a governing document, that effectively prohibits or unreasonably restricts the construction or use of an accessory dwelling unit or junior accessory dwelling unit on a lot zoned for single-family residential use that meets the above-described minimum standards (subsections F and G) established for those units shall be void and unenforceable.</text>
           </para>
         </codify:replace>
         <section>
-          <codify:replace path="19.39.060" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.39.060" codified:citation="Section 19.39.060" codified:display="Amend"/>
+          <codify:replace path="19.39.060" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.39.060"/>
           <num>19.39.060</num>
           <heading>Junior accessory dwelling unit standards</heading>
           <para>
@@ -4355,7 +4355,7 @@
           </para>
         </section>
         <section>
-          <codify:replace path="19.39.070" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.39.070" codified:citation="Section 19.39.070" codified:display="Amend"/>
+          <codify:replace path="19.39.070" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.39.070"/>
           <num>19.39.070</num>
           <heading>Parking standards</heading>
           <para>
@@ -4416,7 +4416,7 @@
           </para>
         </section>
         <section>
-          <codify:replace path="19.39.080" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.39.080" codified:citation="Section 19.39.080" codified:display="Amend"/>
+          <codify:replace path="19.39.080" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.39.080"/>
           <num>19.39.080</num>
           <heading>Operational standards</heading>
           <para>
@@ -4433,7 +4433,7 @@
           </para>
         </section>
         <section>
-          <codify:replace path="19.39.090" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.39.090" codified:citation="Section 19.39.090" codified:display="Amend"/>
+          <codify:replace path="19.39.090" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.39.090"/>
           <num>19.39.090</num>
           <heading>Design standards</heading>
           <text>Accessory dwelling units shall comply with the following standards.</text>
@@ -4443,7 +4443,7 @@
           </para>
         </section>
         <section>
-          <codify:replace path="19.39.100" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.39.100" codified:citation="Section 19.39.100" codified:display="Amend"/>
+          <codify:replace path="19.39.100" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.39.100"/>
           <num>19.39.100</num>
           <heading>Review and approval process</heading>
           <text>Permits for accessory dwelling units and junior accessory dwelling units shall be reviewed ministerially through the building division in accordance to <cite doc="Cal. Gov't Code" path="§65852.2">Government Code Section 65852.2</cite> (a) through (e).</text>
@@ -4462,7 +4462,7 @@
           </para>
         </section>
         <section>
-          <codify:replace path="19.39.110" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.39.110" codified:citation="Section 19.39.110" codified:display="Amend"/>
+          <codify:replace path="19.39.110" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.39.110"/>
           <num>19.39.110</num>
           <heading>Code enforcement</heading>
           <text>For accessory dwelling units built before January 1, 2020, the property owner may request delayed enforcement of building standards for five years.</text>
