@@ -74,7 +74,7 @@
   <section>
     <num>1</num>
     <text>Repeal and replace ACMC <cite doc="City of American Canyon, Cal., Code" path="13.06.030|(B)">13.06.030.B</cite> with the following:</text>
-    <codify:replace path="|13.06.030|(B)" codified:doc="City of American Canyon, Cal., Code" codified:path="|13.06.030|(B)" codified:citation="Section 13.06.030" codified:display="Amend">
+    <codify:replace path="|13.06.030|(B)" codified:doc="City of American Canyon, Cal., Code" codified:path="|13.06.030|(B)">
       <para>
         <num>(B)</num>
         <text>As of the effective date of the ordinance, or January 1, 2025, whichever comes later, the water meter charges for all customers shall be levied according to the following schedule:</text>
@@ -456,12 +456,12 @@
   <section>
     <num>2</num>
     <text>Repeal ACMC <cite doc="City of American Canyon, Cal., Code" path="13.06.030|(C)">13.06.030.C</cite>.</text>
-    <codify:repeal path="13.06.030|(C)" codified:doc="City of American Canyon, Cal., Code" codified:path="|13.06.030|(C)" codified:citation="Section 13.06.030" codified:display="Amend"/>
+    <codify:repeal path="13.06.030|(C)" codified:doc="City of American Canyon, Cal., Code" codified:path="|13.06.030|(C)"/>
   </section>
   <section>
     <num>3</num>
     <text>Repeal and replace ACMC <cite doc="City of American Canyon, Cal., Code" path="13.06.040|(B)">13.06.040.B</cite> with the following:</text>
-    <codify:replace path="|13.06.040|(B)" codified:doc="City of American Canyon, Cal., Code" codified:path="|13.06.040|(B)" codified:citation="Section 13.06.040" codified:display="Amend">
+    <codify:replace path="|13.06.040|(B)" codified:doc="City of American Canyon, Cal., Code" codified:path="|13.06.040|(B)">
       <para>
         <num>(B)</num>
         <heading>As of the effective date of the ordinance, or January 1, 2019, whichever comes later, customers will pay quantity rates according to the following schedule below:</heading>
@@ -773,7 +773,7 @@
   <section>
     <num>4</num>
     <text>Repeal and replace ACMC <cite doc="City of American Canyon, Cal., Code" path="13.14.100">13.14.100</cite> with the following:</text>
-    <codify:replace path="13.14.100" codified:doc="City of American Canyon, Cal., Code" codified:path="|13.14.100" codified:citation="Section 13.14.100" codified:display="Amend">
+    <codify:replace path="13.14.100" codified:doc="City of American Canyon, Cal., Code" codified:path="|13.14.100">
       <section>
         <num>13.14.100</num>
         <heading>Drought Surcharge</heading>
@@ -1130,7 +1130,7 @@
   <section>
     <num>5</num>
     <text>Modify ACMC <cite doc="City of American Canyon, Cal., Code" path="13.14.065">13.14.065</cite> as follows:</text>
-    <codify:replace path="13.14.065" codified:doc="City of American Canyon, Cal., Code" codified:path="|13.14.065" codified:citation="Section 13.14.065" codified:display="Amend">
+    <codify:replace path="13.14.065" codified:doc="City of American Canyon, Cal., Code" codified:path="|13.14.065">
       <section>
         <num>13.14.065</num>
         <heading>Recycled water service required</heading>
@@ -1698,7 +1698,7 @@
   <section>
     <num>6</num>
     <text>Repeal and replace ACMC <cite doc="City of American Canyon, Cal., Code" path="14.04.020">14.04.020</cite> as follows:</text>
-    <codify:replace path="14.04.020" codified:doc="City of American Canyon, Cal., Code" codified:path="|14.04.020" codified:citation="Section 14.04.020" codified:display="Amend">
+    <codify:replace path="14.04.020" codified:doc="City of American Canyon, Cal., Code" codified:path="|14.04.020">
       <section>
         <num>14.04.020</num>
         <heading>Wastewater service charges – Residential service</heading>
@@ -1857,7 +1857,7 @@
   <section>
     <num>7</num>
     <text>Repeal and replace ACMC <cite doc="City of American Canyon, Cal., Code" path="14.04.030">14.04.030</cite> as follows:</text>
-    <codify:replace path="14.04.030" codified:doc="City of American Canyon, Cal., Code" codified:path="|14.04.030" codified:citation="Section 14.04.030" codified:display="Amend">
+    <codify:replace path="14.04.030" codified:doc="City of American Canyon, Cal., Code" codified:path="|14.04.030">
       <section>
         <num>14.04.030</num>
         <heading>Wastewater service charge—Mobile home residential service</heading>
@@ -1880,7 +1880,7 @@
   <section>
     <num>8</num>
     <text>Repeal and replace ACMC <cite doc="City of American Canyon, Cal., Code" path="14.04.030">14.04.040</cite> as follows:</text>
-    <codify:replace path="14.04.040" codified:doc="City of American Canyon, Cal., Code" codified:path="|14.04.040" codified:citation="Section 14.04.040" codified:display="Amend">
+    <codify:replace path="14.04.040" codified:doc="City of American Canyon, Cal., Code" codified:path="|14.04.040">
       <section>
         <num>14.04.040</num>
         <heading>Wastewater service charge—Multifamily</heading>
@@ -1903,7 +1903,7 @@
   <section>
     <num>9</num>
     <text>Repeal and replace ACMC <cite doc="City of American Canyon, Cal., Code" path="14.04.050">14.04.050</cite> as follows</text>
-    <codify:replace path="14.04.050" codified:doc="City of American Canyon, Cal., Code" codified:path="|14.04.050" codified:citation="Section 14.04.050" codified:display="Amend">
+    <codify:replace path="14.04.050" codified:doc="City of American Canyon, Cal., Code" codified:path="|14.04.050">
       <section>
         <num>14.04.050</num>
         <heading>Wastewater service charges—Nonresidential, normal strength</heading>
