@@ -491,12 +491,13 @@
     </section>
     <section>
       <num>5.04.220</num>
-      <heading>Exemption—Charitable and nonprofit organizations.</heading>
-      <text>The provisions of <cite path="5.04">this chapter</cite> shall not be deemed or construed to require the payment of a license fee to conduct, manage or carry on any business, occupation, or activity from any institution or organization which is conducted, managed or carried on wholly for the benefit of charitable purposes from which profit is not derived, either directly or indirectly, by any individual; nor shall any license fee be required for the conducting of any entertainment, concert, exhibition, or lecture on scientific, historical, literary, religious or moral subjects within the city whenever the receipts of any such entertainment, concert, exhibition or lecture are to be appropriated to any church or school or to any religious or benevolent purpose; nor shall any license fee be required for the conducting of any entertainment, dance, municipal organization or association whenever the receipts of any such entertainment, dance, concert exhibition or lecture are to be appropriated for the purpose and objects for which such organization or association was formed and from which profit is not derived either directly or indirectly, by any individual; provided, however, that nothing in <cite path="|5.04.220">this section</cite> shall be deemed to exempt any such organization or association from complying with any of the provisions of this code requiring a permit from the city council or any commission or officer to conduct, manage, or carry on any profession, trade, calling or occupation.</text>
+      <heading>Exemption – Charitable and nonprofit organizations.</heading>
+      <text>The provisions of <cite path="5.04">this chapter</cite> shall not be deemed or construed to require the payment of a license fee to conduct, manage or carry on any business, occupation, or activity from any institution or organization which is conducted, managed or carried on wholly for the benefit of charitable purposes from which profit is not derived, either directly or indirectly, by any individual; nor shall any license fee be required for the conducting of any entertainment, concert, exhibition, community special event, or lecture on scientific, historical, literary, religious or moral subjects within the city whenever the receipts of any such entertainment, concert, exhibition or lecture are to be appropriated to any church or school or to any religious or benevolent purpose; nor shall any license fee be required for the conducting of any entertainment, dance, special community event, municipal organization or association whenever the receipts of any such entertainment, dance, community special event, concert exhibition or lecture are to be appropriated for the purpose and objects for which such organization or association was formed and from which profit is not derived either directly or indirectly, by any individual; provided, however, that nothing in <cite path="5.04.220">this section</cite> shall be deemed to exempt any such organization or association from complying with any of the provisions of this code requiring a permit from the city council or any commission or officer to conduct, manage, or carry on any profession, trade, calling or occupation. This exemption shall apply to promoters, service providers, and vendors who are employed or contracted by the charitable or nonprofit organizations hosting community special events, as previously described.</text>
       <annotations>
         <annotation type="History">Ord. 2012-01 § 1, 2012</annotation>
         <annotation type="History">Ord. 92-20, 1992</annotation>
         <annotation type="Prior Codifications">Previously codified as 3.28.220</annotation>
+        <annotation app="2025-10-01" doc="City of American Canyon, Cal., Ord. No. 2025-04" eff="2025-10-01" path="§1" type="History"/>
       </annotations>
     </section>
     <section>
@@ -917,14 +918,14 @@
     <section>
       <num>5.04.410</num>
       <heading>License fees—Flat rate.</heading>
-      <text>Every person transacting and carrying on the businesses enumerated in <cite path="|5.04.410">this section</cite> shall pay a license fee as follows:</text>
+      <text>Every person transacting and carrying on the businesses enumerated in <cite path="5.04.410">this section</cite> shall pay a license fee as follows:</text>
       <text>
         <strong>Advertising.</strong>
       </text>
-      <text class="text-indent-2"><strong>(A)</strong> Billboards, signs not fixed on places of business: one hundred dollars per structure or sign.</text>
-      <text class="text-indent-2"><strong>(B)</strong> Distributing handbills: one hundred dollars annually, or fifty dollars monthly, or twenty-five dollars daily.</text>
-      <text class="text-indent-2"><strong>(C)</strong> Sound trucks: two hundred dollars annual fee per truck, or fifty dollars daily fee per truck.</text>
-      <text class="text-indent-2"><strong>(D)</strong> Klieg lights: one hundred fifty dollars per year per light, or at licensee's option, fifteen dollars per day per light.</text>
+      <text class="text-indent-2">(A) Billboards, signs not fixed on places of business: one hundred dollars per structure or sign.</text>
+      <text class="text-indent-2">(B) Distributing handbills: one hundred dollars annually, or fifty dollars monthly, or twenty-five dollars daily.</text>
+      <text class="text-indent-2">(C) Sound trucks: two hundred dollars annual fee per truck, or fifty dollars daily fee per truck.</text>
+      <text class="text-indent-2">(D) Klieg lights: one hundred fifty dollars per year per light, or at licensee's option, fifteen dollars per day per light.</text>
       <text>
         <strong>Auctioneers.</strong>
       </text>
@@ -936,7 +937,7 @@
       <text>
         <strong>Carnivals, Fairs.</strong>
       </text>
-      <text>Two hundred dollars for the first day and one hundred fifty dollars for each additional day, for the first ten or fewer concessions; plus thirty dollars for the first day and twenty dollars for each additional day for each concession in excess of ten. For the purpose of <cite path="|5.04.410">this section</cite>, "concession" means any amusement ride, booth, exhibit, stall, tent, trailer, or stand which charges any fee for the ride, service or product offered.</text>
+      <text>Two hundred dollars for the first day and one hundred fifty dollars for each additional day, for the first ten or fewer concessions; plus thirty dollars for the first day and twenty dollars for each additional day for each concession in excess of ten. For the purpose of <cite path="5.04.410">this section</cite>, "concession" means any amusement ride, booth, exhibit, stall, tent, trailer, or stand which charges any fee for the ride, service or product offered.</text>
       <text>
         <strong>Circuses.</strong>
       </text>
@@ -949,38 +950,42 @@
         <table class="layout-table">
           <thead>
             <tr>
-              <th>Persons Employed at Location</th>
-              <th>Rate per Day</th>
+              <th class="text-indent-2">Persons Employed at Location</th>
+              <th class="text-indent-2">Rate per Day</th>
             </tr>
           </thead>
           <tbody>
             <tr>
-              <td>1 — 3</td>
-              <td>$100.00</td>
+              <td class="text-indent-2">1 — 3</td>
+              <td class="text-indent-2">$100.00</td>
             </tr>
             <tr>
-              <td>4 — 6</td>
-              <td>200.00</td>
+              <td class="text-indent-2">4 — 6</td>
+              <td class="text-indent-2">200.00</td>
             </tr>
             <tr>
-              <td>7 — 9</td>
-              <td>400.00</td>
+              <td class="text-indent-2">7 — 9</td>
+              <td class="text-indent-2">400.00</td>
             </tr>
             <tr>
-              <td>10 and over</td>
-              <td>600.00</td>
+              <td class="text-indent-2">10 and over</td>
+              <td class="text-indent-2">600.00</td>
             </tr>
           </tbody>
         </table>
       </text>
       <text>Traffic-control costs or any additional costs as required by the chief of police shall be paid entirely by the applicant.</text>
       <text>
+        <strong>Community Special Events.</strong>
+      </text>
+      <text>Two hundred dollars per day per event. Unlimited vendors and concessions. For the purpose of <cite path="5.04.410">this section</cite>, "concession" means any booth, stall, tent, trailer, mobile vendor, or stand which charges any fee for the service or product offered. Vendors include service providers such as musicians, stage crew, lighting, DJ's. Not applicable to Charitable and non-profit organizations.</text>
+      <text>
         <strong>Contractors.</strong>
       </text>
       <text>Every person engaged in the business of contracting which requires a state contractors' license shall pay a business license as follows:</text>
-      <text class="text-indent-2"><strong>(A)</strong> General contractors, one hundred dollar annual fee;</text>
-      <text class="text-indent-2"><strong>(B)</strong> Subcontractors, fifty dollar annual fee;</text>
-      <text class="text-indent-2"><strong>(C)</strong> Business licenses for general contractors and subcontractors may be obtained semi-annually.</text>
+      <text class="text-indent-2">(A) General contractors, one hundred dollar annual fee;</text>
+      <text class="text-indent-2">(B) Subcontractors, fifty dollar annual fee;</text>
+      <text class="text-indent-2">(C) Business licenses for general contractors and subcontractors may be obtained semi-annually.</text>
       <text>
         <strong>Living Accommodations.</strong>
       </text>
@@ -992,8 +997,8 @@
       <text>
         <strong>Peddlers and Solicitors.</strong>
       </text>
-      <text class="text-indent-2"><strong>(A)</strong> Principal, two hundred dollar annual fee.</text>
-      <text class="text-indent-2"><strong>(B)</strong> Each additional solicitor or peddler, ten dollars quarterly.</text>
+      <text class="text-indent-2">(A) Principal, two hundred dollar annual fee.</text>
+      <text class="text-indent-2">(B) Each additional solicitor or peddler, ten dollars quarterly.</text>
       <text>
         <strong>Sales Representatives.</strong>
       </text>
@@ -1001,13 +1006,14 @@
       <text>
         <strong>Taxicabs.</strong>
       </text>
-      <text class="text-indent-2"><strong>(A)</strong> Taxicab operator's license, sixty dollar annual fee;</text>
-      <text class="text-indent-2"><strong>(B)</strong> Taxicab vehicles, per vehicle, twenty-five dollar annual fee.</text>
+      <text class="text-indent-2">(A) Taxicab operator's license, sixty dollar annual fee;</text>
+      <text class="text-indent-2">(B) Taxicab vehicles, per vehicle, twenty-five dollar annual fee.</text>
       <annotations>
         <annotation type="History">Ord. 2012-01 § 1, 2012</annotation>
         <annotation type="History">Ord. 93-06 § 1, 1993</annotation>
         <annotation type="History">Ord. 92-20, 1992</annotation>
         <annotation type="Prior Codifications">Previously codified as 3.28.410</annotation>
+        <annotation app="2025-10-01" doc="City of American Canyon, Cal., Ord. No. 2025-04" eff="2025-10-01" path="§1" type="History"/>
       </annotations>
     </section>
     <section>
