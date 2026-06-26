@@ -15641,7 +15641,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>Mailing or delivering notice, postage prepaid, to all of the following:</text>
+            <text> Mailing or delivering notice, postage prepaid, to all the following:</text>
             <para>
               <num>(a)</num>
               <text>The property owner,</text>
@@ -15652,11 +15652,15 @@
             </para>
             <para>
               <num>(c)</num>
-              <text>The owners of all property within three hundred feet of the exterior boundaries of the property which is the subject of the application, and</text>
+              <text>The owners of all property within five hundred (500) feet of the exterior boundaries of the property which is the subject of the application,</text>
             </para>
             <para>
               <num>(d)</num>
-              <text>Any person who has filed a written request for such notice;</text>
+              <text>Accomplish tenant notification with all physical addresses located within five hundred (500) feet of the exterior boundaries of the property which is the subject of the application, and</text>
+            </para>
+            <para>
+              <num>(e)</num>
+              <text>Any person who has filed a written request for such notice.</text>
             </para>
           </para>
           <para>
@@ -15667,6 +15671,7 @@
         <annotations>
           <annotation type="History">Ord. 2002-07 Exh. A, 2002</annotation>
           <annotation type="History">Ord. 2001-02 § 1, 2001</annotation>
+          <annotation app="2023-10-19" doc="City of American Canyon, Cal., Ord. No. 2023-08" eff="2023-10-19" path="" type="History"/>
         </annotations>
       </section>
       <section>
