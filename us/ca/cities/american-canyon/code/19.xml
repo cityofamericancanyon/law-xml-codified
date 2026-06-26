@@ -16223,53 +16223,40 @@
       <heading>DESIGN PERMITS</heading>
       <section>
         <num>19.41.010</num>
-        <heading>Purpose.</heading>
-        <text>The purpose of <cite path="19.41">this chapter</cite> is to:</text>
-        <para>
-          <num>(A)</num>
-          <text>Provide for a review process that promotes excellence in site planning and architectural design, consistent with general plan design policies;</text>
-        </para>
-        <para>
-          <num>(B)</num>
-          <text>Encourage the harmonious appearance of buildings and sites;</text>
-        </para>
-        <para>
-          <num>(C)</num>
-          <text>Ensure that new and modified uses and development are compatible with existing and potential uses in the surrounding area;</text>
-        </para>
-        <para>
-          <num>(D)</num>
-          <text>Produce an environment of stable, desirable character.</text>
-        </para>
+        <heading>Purpose</heading>
+        <text>The purpose of <cite path="19.41">this chapter</cite> is to ensure excellence in site planning and architectural design, consistent with the general plan, and applicable local, regional, and state development policies, and municipal code standards.</text>
         <annotations>
           <annotation type="History">Ord. 2001-02 § 1, 2001</annotation>
+          <annotation app="2024-07-04" doc="City of American Canyon, Cal., Ord. No. 2024-06" eff="2024-07-04" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
         <num>19.41.020</num>
-        <heading>Applicability.</heading>
-        <text>Design permit approval by the community development director or planning commission is required for the following:</text>
+        <heading>Applicability</heading>
+        <text>Design permit approval by the community development director, planning commission, or city council is required for the following:</text>
         <para>
           <num>(A)</num>
           <text>New structures, except single-family detached dwellings and their attendant accessory structures constructed on a parcel of land. However, when a builder constructs three or more single-family dwellings in a single subdivision in one year, or on a single block in one year if the lots are not located within a subdivision, the dwelling units shall be subject to approval of a design permit.</text>
         </para>
         <para>
           <num>(B)</num>
-          <text>Enlargements and exterior alterations of structures, including repainting and color changes of commercial, industrial and multi-family structures, but excluding enlargements and alterations of single-family dwellings for which a design permit was not originally required, unless required as a condition of another approval.</text>
+          <text>Proposed outdoor land use(s).</text>
         </para>
         <para>
           <num>(C)</num>
-          <text>Alterations of land in commercial or industrial districts, and/or of sites of more than one acre in residential districts.</text>
+          <text>Alterations of land in commercial or industrial districts, and/or of sites of more than one acre in residential districts that have no prior documented approvals.</text>
+          <text></text>
         </para>
         <annotations>
           <annotation type="History">Ord. 2009-10 § 3, 2009</annotation>
           <annotation type="History">Ord. 2001-02 § 1, 2001</annotation>
+          <annotation app="2024-07-04" doc="City of American Canyon, Cal., Ord. No. 2024-06" eff="2024-07-04" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
         <num>19.41.030</num>
-        <heading>Design permit approval.</heading>
-        <text>Except as provided in <cite path="19.41">this chapter</cite>, no building or structure may be erected, and no building may be enlarged or altered, and no site may be altered until a design permit application has been approved by the community development director or planning commission, as required below. Such review and approval may take place concurrently with the review of any other required approvals.</text>
+        <heading>Design permit approval</heading>
+        <text>Except as provided in this chapter, no building or structure may be erected, and no proposed outdoor land use may permitted until a design permit application has been approved by the community development director, planning commission, or city council as required below. Such review and approval may take place concurrently with the review of any other required approvals.</text>
         <para>
           <num>(A)</num>
           <text>Community Development Department Director Approvals. The community development director may approve the following design permit applications. No public hearing shall be required unless the design permit is being processed concurrently with other applications for which a hearing is required. In this case, the design permit shall be considered at the same public hearing.</text>
@@ -16283,19 +16270,11 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>Commercial structures containing less than five thousand square feet total, industrial structures containing less than twenty thousand square feet total, and subsequent substantial changes of use to these structures.</text>
+            <text>Commercial structures containing less than five thousand square feet total, industrial structures containing less than twenty thousand square feet total.</text>
           </para>
           <para>
             <num>(4)</num>
-            <text>Enlargements or alterations to a project originally approved by the planning commission involving an area of less than five percent of the project's floor or site area, that the director deems to be compatible with the original approval and an insignificant alteration to the project's appearance.</text>
-          </para>
-          <para>
-            <num>(5)</num>
-            <text>Any visible enlargements or alterations to projects, as determined by the community development director.</text>
-          </para>
-          <para>
-            <num>(6)</num>
-            <text>Changes in use to structures or property which cause a project to not meet design standards contained in <cite path="19">this title</cite> for landscaping, parking, signage, screening, etc.</text>
+            <text>Proposed outdoor land use(s).</text>
           </para>
         </para>
         <para>
@@ -16311,61 +16290,59 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>Commercial structures containing five thousand total square feet or more and industrial structures containing twenty thousand square feet or more, and/or substantial changes of use to these structures.</text>
+            <text>Commercial structures containing five thousand total square feet or more and industrial structures containing twenty thousand square feet or more.</text>
           </para>
           <para>
             <num>(4)</num>
-            <text>Enlargements and/or exterior alterations of projects and/or sites involving an area of more than five percent of the project's floor and/or site area, or lesser changes that the community development director has determined potentially represent a significant alteration to a project's and/or site's appearance.</text>
-          </para>
-          <para>
-            <num>(5)</num>
             <text>Sign programs requiring commission approval, pursuant to <cite path="19.23">Chapter 19.23</cite>.</text>
           </para>
           <para>
-            <num>(6)</num>
+            <num>(5)</num>
             <text>Small-cell antenna facilities that do not comply with standards described in <cite path="19.53">Chapter 19.53</cite>.</text>
           </para>
           <para>
-            <num>(7)</num>
-            <text>Design permit applications referred to the commission by the director because of unique circumstances, potential public controversy or a need for policy direction.</text>
+            <num>(6)</num>
+            <text>Design permit applications referred to the commission by the director because of unique circumstances, potential public controversy, or a need for policy direction.</text>
           </para>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>City Council Approvals. The City Council may approve a design permit following a recommendation by the Planning Commission when the California Environmental Quality Act (CEQA) environmental review requires a statement of overriding considerations pursuant to <cite path="19.01.060|(C)">Section 19.01.060(C)</cite>.</text>
+          <text></text>
         </para>
         <annotations>
           <annotation type="History">Ord. 2018-05 § 7, 2018</annotation>
           <annotation type="History">Ord. 2009-10 § 3, 2009</annotation>
           <annotation type="History">Ord. 2001-02 § 1, 2001</annotation>
+          <annotation app="2024-07-04" doc="City of American Canyon, Cal., Ord. No. 2024-06" eff="2024-07-04" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
         <num>19.41.040</num>
-        <heading>Scope of design permit review.</heading>
+        <heading>Scope of design permit review</heading>
         <text>The following areas of design shall be considered in reviewing design permits:</text>
         <para>
           <num>(A)</num>
           <text>Site Planning.</text>
           <para>
             <num>(1)</num>
-            <text>Appropriateness of setbacks, site coverage, building heights, and outdoor use areas,</text>
+            <text>Setbacks, site coverage, building heights, and outdoor use areas,</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>Adequacy of parking, and vehicular and pedestrian circulation,</text>
+            <text>Parking, and vehicular and pedestrian circulation,</text>
           </para>
           <para>
             <num>(3)</num>
-            <text>Relationship to abutting or adjacent sites and land uses; minimization of impacts on residential districts,</text>
-          </para>
-          <para>
-            <num>(4)</num>
             <text>Preservation of natural site amenities,</text>
           </para>
           <para>
-            <num>(5)</num>
-            <text>Use of landscaping, outdoor lighting, and outdoor furniture,</text>
+            <num>(4)</num>
+            <text>Required landscaping, outdoor lighting, and outdoor furniture,</text>
           </para>
           <para>
-            <num>(6)</num>
-            <text>Usability of public and private open spaces;</text>
+            <num>(5)</num>
+            <text>Usability of required public and private open spaces.</text>
           </para>
         </para>
         <para>
@@ -16373,44 +16350,38 @@
           <text>Structural Design.</text>
           <para>
             <num>(1)</num>
-            <text>Scale, mass, bulk, and proportions,</text>
+            <text>Compliance with required scale, mass, bulk, and proportions,</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>Compatibility with the desirable qualities of the area and/or streetscape,</text>
+            <text>Compliance with required building materials and detailing for all structures,</text>
           </para>
           <para>
             <num>(3)</num>
-            <text>Compatibility of building materials and detailing for all structures,</text>
+            <text>Screening of utility, mechanical facilities, and outdoor storage,</text>
           </para>
           <para>
             <num>(4)</num>
-            <text>Relationship to other structures and accessory elements on a site,</text>
+            <text>Compliance with required fence and wall design,</text>
           </para>
           <para>
             <num>(5)</num>
-            <text>Screening of utility and mechanical facilities,</text>
+            <text>Compliance with required architectural elements that contribute to visual interest and variety, including variation to wall planes, multiple roof lines and defined entries.</text>
           </para>
-          <para>
-            <num>(6)</num>
-            <text>Design of fences and walls,</text>
-          </para>
-          <para>
-            <num>(7)</num>
-            <text>Use of architectural elements that contribute to visual interest and variety, including variation to wall planes, multiple roof lines and defined entries.</text>
-          </para>
+          <text></text>
         </para>
         <annotations>
           <annotation type="History">Ord. 2001-02 § 1, 2001</annotation>
+          <annotation app="2024-07-04" doc="City of American Canyon, Cal., Ord. No. 2024-06" eff="2024-07-04" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
         <num>19.41.050</num>
-        <heading>Required findings.</heading>
-        <text>Approval of a design permit application may be granted by the appropriate decision making authority only if all of the following findings are made:</text>
+        <heading>Required findings</heading>
+        <text>Approval of a design permit application may be granted by the appropriate decision-making authority only if all the following findings are made:</text>
         <para>
           <num>(A)</num>
-          <text>The project complies with all applicable provisions of <cite path="19">this title</cite> and any applicable approvals granted for the project by any decision making authority.</text>
+          <text>The project complies with all applicable provisions of this title and any applicable approvals granted for the project by any decision-making authority.</text>
         </para>
         <para>
           <num>(B)</num>
@@ -16418,7 +16389,7 @@
         </para>
         <para>
           <num>(C)</num>
-          <text>The project and its design complies with all applicable general plan policies.</text>
+          <text>The project and its design complies with all applicable general plan policies, and applicable local, regional, and state development policies, and municipal code standards.</text>
         </para>
         <para>
           <num>(D)</num>
@@ -16426,35 +16397,21 @@
         </para>
         <para>
           <num>(E)</num>
-          <text>The project's quality and character are compatible with the surrounding area, unless physically deteriorated or blighted, and will not be materially detrimental to existing development.</text>
-        </para>
-        <para>
-          <num>(F)</num>
-          <text>The proposed design is compatible with existing development in the area in terms of scale, height, bulk, proportion, materials, cohesiveness, color, and the preservation of privacy.</text>
-        </para>
-        <para>
-          <num>(G)</num>
-          <text>The design improves the community's appearance by avoiding both excessive variety and monotonous repetition.</text>
-        </para>
-        <para>
-          <num>(H)</num>
-          <text>The proposed design promotes a harmonious transition in terms of scale and character between areas of different general plan land use designations and zoning districts.</text>
-        </para>
-        <para>
-          <num>(I)</num>
           <text>The proposed design provides for adequate and safe on-site vehicular and pedestrian circulation.</text>
         </para>
+        <text></text>
         <annotations>
           <annotation type="History">Ord. 2010-03 § 3, 2010</annotation>
           <annotation type="History">Ord. 2001-02 § 1, 2001</annotation>
+          <annotation app="2024-07-04" doc="City of American Canyon, Cal., Ord. No. 2024-06" eff="2024-07-04" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
         <num>19.41.060</num>
-        <heading>Expiration of approval.</heading>
+        <heading>Expiration of approval</heading>
         <para>
           <num>(A)</num>
-          <text>If the project for which a design permit has been approved pursuant to <cite path="19.41">this chapter</cite> has not been inaugurated within two years of the granting of the design permit, the approval shall become null and void and of no effect. This provision shall not apply to applications approved in conjunction with another discretionary permit. In such cases, the expiration period shall coincide with that of the associated period.</text>
+          <text>If the project for which a design permit has been approved pursuant to this chapter has not been inaugurated within two years of the granting of the design permit, the approval shall become null and void and of no effect. This provision shall not apply to applications approved in conjunction with another discretionary permit. In such cases, the expiration period shall coincide with that of the associated period.</text>
         </para>
         <para>
           <num>(B)</num>
@@ -16465,11 +16422,13 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>There has been no change of circumstances which would prevent any of the required findings of approval to be made.</text>
+            <text>There has been no change of circumstances which would prevent any of the required findings of approval from being made.</text>
           </para>
         </para>
+        <text></text>
         <annotations>
           <annotation type="History">Ord. 2001-02 § 1, 2001</annotation>
+          <annotation app="2024-07-04" doc="City of American Canyon, Cal., Ord. No. 2024-06" eff="2024-07-04" path="§1" type="History"/>
         </annotations>
       </section>
     </container>
